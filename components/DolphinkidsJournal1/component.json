@@ -1,0 +1,23 @@
+{
+  "key": "DolphinkidsJournal1",
+  "sectionType": "Journal",
+  "sectionNumber": 1,
+  "scope": "page",
+  "name": "DolphinkidsJournal1",
+  "folder": "journal",
+  "editorFields": [
+    "eyebrow",
+    "title",
+    "lead",
+    "button"
+  ],
+  "defaultContent": {
+    "id": "journal",
+    "index": "10",
+    "eyebrow": "The Parenting Journal",
+    "title": "Notes for the years that matter most.",
+    "lead": "Practical, evidence-informed guidance for parents of young children, written by our team.",
+    "button": "Read the Journal",
+    "button_href": "#page-journal"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "key": "DolphinkidsCampus1",
+  "sectionType": "Campus",
+  "sectionNumber": 1,
+  "scope": "page",
+  "name": "DolphinkidsCampus1",
+  "folder": "campus",
+  "editorFields": [
+    "eyebrow",
+    "title",
+    "lead",
+    "stats",
+    "hero",
+    "gallery",
+    "zones"
+  ],
+  "defaultContent": {
+    "id": "campus",
+    "index": "05",
+    "eyebrow": "Campus and infrastructure",
+    "title": "One campus. A world of learning experiences.",
+    "lead": "An extensive campus designed for global learning and exceptional childhood experiences.",
+    "stats": [
+      {
+        "label": "Indoor & outdoor play zones",
+        "value": "20,000",
+        "unit": "sq ft",
+        "text": "Combined indoor and outdoor space for active play, movement and exploration."
+      },
+      {
+        "label": "Green space",
+        "value": "10,000",
+        "unit": "sq ft",
+        "text": "Room to connect with nature and enjoy outdoor discovery at our Greater Noida campus."
+      }
+    ],
+    "hero": {
+      "src": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-tour-poster.webp",
+      "alt": "Colourful learning room shown in the original Dolphin Kids campus tour",
+      "caption": "Room to grow, together"
+    },
+    "gallery": [
+      {
+        "src": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-4.webp",
+        "alt": "Children playing together in an indoor ball pit at Dolphin Kids",
+        "title": "Indoor Play Zones",
+        "text": "Soft, air-conditioned indoor play for active games and movement in any weather."
+      },
+      {
+        "src": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-1.webp",
+        "alt": "A child with a caregiver at an outdoor slide at Dolphin Kids",
+        "title": "Outdoor Play Zones",
+        "text": "Slides, open-air play and room to run, climb and play together."
+      },
+      {
+        "src": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-3.webp",
+        "alt": "Children on swings surrounded by greenery and trees at Dolphin Kids",
+        "title": "Green Spaces",
+        "text": "Fresh air, trees and greenery for outdoor discovery close to nature."
+      }
+    ],
+    "zones": [
+      {
+        "title": "Learning labs",
+        "text": "Language, STEAM, Science, EVS and Maths labs, plus Montessori and computer spaces."
+      },
+      {
+        "title": "Indoor play zones",
+        "text": "Large, air-conditioned spaces for active play whatever the Greater Noida weather."
+      },
+      {
+        "title": "Outdoor play zones",
+        "text": "Open-air play, a splash pool and a duck pond for curious explorers."
+      },
+      {
+        "title": "Sports",
+        "text": "Basketball, badminton and KinderGym for coordination and team spirit."
+      },
+      {
+        "title": "Studios",
+        "text": "Dance and theatre studios with room to rehearse, perform and celebrate."
+      },
+      {
+        "title": "Care facilities",
+        "text": "Kitchen and meal facilities, rest spaces and power backup."
+      }
+    ]
+  }
+}

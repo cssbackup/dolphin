@@ -1,0 +1,41 @@
+{
+  "key": "DolphinkidsParents1",
+  "sectionType": "Parents",
+  "sectionNumber": 1,
+  "scope": "page",
+  "name": "DolphinkidsParents1",
+  "folder": "parents",
+  "editorFields": [
+    "eyebrow",
+    "title",
+    "lead",
+    "notice",
+    "label",
+    "footnote",
+    "items"
+  ],
+  "defaultContent": {
+    "id": "parents",
+    "index": "09",
+    "eyebrow": "Parent trust",
+    "title": "In parents' own words.",
+    "lead": "No scripts, no star ratings. These are the parent videos shared on the school's own website. Press play to hear them.",
+    "notice": "Supplied parent testimonial film. Details shown reflect the family's experience at the time of recording.",
+    "label": "Parent video",
+    "footnote": "Teacher profiles, events and activity galleries will be added as the school shares approved material.",
+    "items": [
+      {
+        "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/parent-story-sisters.webp",
+        "video": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/prajapati.mp4",
+        "title": "The Prajapati family",
+        "text": "Two sisters at Dolphin Kids"
+      },
+      {
+        "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/parent-story-gaurika.webp",
+        "video": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/gaurika.mp4",
+        "title": "Gaurika's parents",
+        "text": "Gaurika's family"
+      }
+    ]
+  }
+}

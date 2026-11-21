@@ -1,0 +1,125 @@
+{
+  "key": "DolphinkidsProgrammes1",
+  "sectionType": "Programmes",
+  "sectionNumber": 1,
+  "scope": "page",
+  "name": "DolphinkidsProgrammes1",
+  "folder": "programmes",
+  "editorFields": [
+    "eyebrow",
+    "title",
+    "lead",
+    "ribbon",
+    "cards",
+    "note",
+    "process_link",
+    "badge",
+    "details_label",
+    "whatsapp_label",
+    "age_check",
+    "items"
+  ],
+  "defaultContent": {
+    "id": "admissions",
+    "index": "02",
+    "eyebrow": "Smart admission finder",
+    "title": "Little Beginnings. Limitless Possibilities.",
+    "lead": "Preschool to Grade 2 — Six Learning Stages. One Inspiring Journey.",
+    "ribbon": "Indian & International Curriculum | Holistic Learning | Future-Ready Skills",
+    "cards": [
+      {
+        "eyebrow": "Premium Day Care",
+        "title": "Beyond School. Beyond Boundaries.",
+        "text": "A second home for learning, growth and care. Extended Day Care for Dolphin Group pupils.",
+        "href": "#page-day-care",
+        "link": "Explore care options"
+      },
+      {
+        "eyebrow": "International School of Music & Performing Arts",
+        "title": "Discover. Create. Perform.",
+        "text": "Music, Dance, Acting & Performing Arts.",
+        "href": "#learning",
+        "link": "Explore the activities"
+      }
+    ],
+    "note": "Age eligibility is indicative and subject to confirmation by our admissions team.",
+    "process_link": "See the admission process and documents required",
+    "process_href": "#process",
+    "badge": "Minimum age",
+    "details_label": "Programme details",
+    "whatsapp_label": "Enquire on WhatsApp",
+    "whatsapp_href": "https://wa.me/919310589888",
+    "age_check": {
+      "id": "age-check",
+      "title": "Age eligibility check",
+      "text": "For Nursery to Grade 2 in the school-approved session, age is calculated as of the approved cut-off. Pre-Nursery is separate: from 20 months, without this session cut-off. Our admissions team will confirm eligibility.",
+      "session_label": "School-approved admission session",
+      "session_placeholder": "Select an approved session",
+      "sessions": [
+        "2026–27",
+        "2027–28"
+      ],
+      "checking_label": "Checking admission for",
+      "tracks": [
+        {
+          "id": "nursery",
+          "name": "Nursery to Grade 2"
+        },
+        {
+          "id": "pre",
+          "name": "Pre-Nursery — from 20 months"
+        }
+      ],
+      "dob_label": "Child's date of birth",
+      "empty_result": "Result will appear here. Or call",
+      "below_text": "Please speak with admissions. This age is below the published minimum.",
+      "indicative": "Indicative only. The admissions team confirms the class.",
+      "age_today": "Age today",
+      "age_on": "Age on",
+      "years_label": "years",
+      "months_label": "months",
+      "phone": "98110 29884",
+      "phone_href": "tel:+919811029884",
+      "cutoff": "2027-03-31",
+      "cutoff_label": "31 March 2027"
+    },
+    "items": [
+      {
+        "name": "Preschool / Pre-Nursery",
+        "age": "From 20 months",
+        "months": 20,
+        "focus": "Early childhood development · Sensory learning · Montessori · Play-based learning"
+      },
+      {
+        "name": "Nursery PP1",
+        "age": "From 2 years 8 months",
+        "months": 32,
+        "focus": "Language development — calligraphy and reading · Vocabulary · Phonics readiness with Jolly Phonics"
+      },
+      {
+        "name": "LKG PP2",
+        "age": "From 3 years 8 months",
+        "months": 44,
+        "focus": "Jolly Phonics · Jolly Grammar · Fitzroy Readers · Reading & Comprehension"
+      },
+      {
+        "name": "UKG PP3",
+        "age": "From 4 years 8 months",
+        "months": 56,
+        "focus": "Advanced Jolly Phonics · Jolly Grammar · Fitzroy Readers & Reading Fluency · Reading Comprehension"
+      },
+      {
+        "name": "Grade 1",
+        "age": "From 5 years 8 months",
+        "months": 68,
+        "focus": "English Language & Jolly Grammar · Fitzroy Readers & Reading Fluency · Reading Comprehension · Creative Writing"
+      },
+      {
+        "name": "Grade 2",
+        "age": "From 6 years 8 months",
+        "months": 80,
+        "focus": "Advanced English Language & Grammar · Fitzroy Readers & Advanced Reading Skills · Reading Fluency"
+      }
+    ]
+  }
+}

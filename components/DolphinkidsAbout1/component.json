@@ -1,0 +1,63 @@
+{
+  "key": "DolphinkidsAbout1",
+  "sectionType": "About",
+  "sectionNumber": 1,
+  "scope": "page",
+  "name": "DolphinkidsAbout1",
+  "folder": "about",
+  "editorFields": [
+    "eyebrow",
+    "title",
+    "paragraphs",
+    "closing",
+    "image",
+    "image_alt",
+    "image_caption",
+    "image_year",
+    "pillars"
+  ],
+  "defaultContent": {
+    "id": "about",
+    "index": "2002",
+    "eyebrow": "About Dolphin Kids School",
+    "title": "Nurturing Young Minds, Inspiring Bright Futures",
+    "paragraphs": [
+      "Dolphin Kids School, established in 2002, is committed to providing high-quality foundational education through a blend of international teaching methodologies, innovative learning practices and Indian values.",
+      "We believe every child is unique and deserves an environment that encourages curiosity, creativity, confidence and independent thinking.",
+      "Our educational approach integrates Montessori, experiential and inquiry-based learning with internationally recognised programmes such as Jolly Phonics & Grammar (UK), Fitzroy Readers (Australia), STEM UK and Jodo Gyan Mathematics.",
+      "Our focus extends beyond academics to holistic development through Personal, Social and Emotional Development (PSED), performing arts, music, dance, theatre, sports and creative exploration."
+    ],
+    "closing": "At Dolphin Kids School, we aim to build strong foundations that prepare children not just for their next academic stage but for lifelong success.",
+    "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-5.webp",
+    "image_alt": "Adults meeting together on the Dolphin Kids campus",
+    "image_caption": "On campus at Dolphin Kids, Greater Noida",
+    "image_year": "Since 2002",
+    "pillars": [
+      {
+        "icon": "compass",
+        "title": "Our Vision",
+        "text": "To nurture more creative experts and scientists: curious children who grow into confident thinkers, makers and communicators."
+      },
+      {
+        "icon": "target",
+        "title": "Our Mission",
+        "text": "To provide high-quality foundational education that blends international teaching methodologies, innovative learning practices and Indian values, so every child builds strong foundations for the next stage and for life."
+      },
+      {
+        "icon": "lightbulb",
+        "title": "Our Educational Philosophy",
+        "text": "Every child is unique. We integrate Montessori, experiential and inquiry-based learning so children learn through curiosity, creativity, confidence and independent thinking."
+      },
+      {
+        "icon": "award",
+        "title": "Our Academic Excellence",
+        "text": "Structured early literacy and numeracy through programmes such as Jolly Phonics & Grammar (UK), Fitzroy Readers (Australia), the STEM UK programme offered at school and Jodo Gyan Mathematics."
+      },
+      {
+        "icon": "heart",
+        "title": "Why Choose Dolphin Kids School?",
+        "text": "Learning that goes beyond academics: PSED, performing arts, music, dance, theatre, sports and creative exploration, with warm teachers who know each child."
+      }
+    ]
+  }
+}

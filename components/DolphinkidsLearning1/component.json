@@ -1,0 +1,263 @@
+{
+  "key": "DolphinkidsLearning1",
+  "sectionType": "Learning",
+  "sectionNumber": 1,
+  "scope": "page",
+  "name": "DolphinkidsLearning1",
+  "folder": "learning",
+  "editorFields": [
+    "eyebrow",
+    "title",
+    "lead",
+    "origins",
+    "origins_note",
+    "filters",
+    "learn_more",
+    "items"
+  ],
+  "defaultContent": {
+    "id": "learning",
+    "index": "04",
+    "eyebrow": "Indian & International Curriculum",
+    "title": "Indian foundations. A world of discovery.",
+    "lead": "Indian values and foundational learning meet international early-years programmes: literacy, hands-on mathematics, science, movement and the arts, woven into one connected journey from Preschool to Grade 2.",
+    "origins": [
+      {
+        "country": "India",
+        "detail": "Indian values and foundational learning, with hands-on mathematics through Jodo Gyan."
+      },
+      {
+        "country": "England",
+        "detail": "Jolly Phonics and Jolly Grammar for literacy; STEM UK as listed by the school."
+      },
+      {
+        "country": "Australia",
+        "detail": "Fitzroy Readers: a phonics-based pathway towards reading fluency and confidence."
+      }
+    ],
+    "origins_note": "Flags identify programme origins only, not government or provider endorsement. Indian & International Curriculum describes our blend of learning approaches, not CBSE or IB accreditation. The management-confirmed Korean learning partnership is separate from these programme origins.",
+    "filters": [
+      "All",
+      "Literacy",
+      "Labs",
+      "Movement and arts",
+      "Holistic Development"
+    ],
+    "learn_more": "Learn more",
+    "items": [
+      {
+        "id": "international",
+        "icon": "globe",
+        "name": "International Curriculum",
+        "group": "Holistic Development",
+        "text": "An internationally inspired early-years framework that brings literacy, enquiry, labs and the arts into one connected day.",
+        "points": [
+          "Global learning approaches",
+          "Child-centred classrooms",
+          "Preschool to Grade 2 continuity"
+        ]
+      },
+      {
+        "id": "jolly-phonics",
+        "icon": "type",
+        "origin": "England",
+        "name": "Jolly Phonics",
+        "group": "Literacy",
+        "text": "A multisensory early literacy programme using sounds, actions, stories and songs to build reading and writing foundations.",
+        "points": [
+          "Letter sounds",
+          "Sound recognition",
+          "Blending",
+          "Early reading"
+        ]
+      },
+      {
+        "id": "jolly-grammar",
+        "icon": "pen",
+        "origin": "England",
+        "name": "Jolly Grammar",
+        "group": "Literacy",
+        "text": "Grammar made visible and joyful, so children learn how sentences work as they learn to write them.",
+        "points": [
+          "Grammar awareness",
+          "Sentence construction",
+          "Punctuation",
+          "Spelling"
+        ]
+      },
+      {
+        "id": "grammar-starter",
+        "icon": "book",
+        "name": "Grammar Starter",
+        "group": "Literacy",
+        "text": "Age-appropriate grammar foundations for the youngest writers and speakers.",
+        "points": [
+          "First grammar concepts",
+          "Language development",
+          "Confident speaking"
+        ]
+      },
+      {
+        "id": "fitzroy",
+        "icon": "marked",
+        "origin": "Australia",
+        "name": "Fitzroy Readers",
+        "group": "Literacy",
+        "text": "A phonics-based reading series that moves children from decoding to fluent, confident reading.",
+        "points": [
+          "Phonics-based reading",
+          "Decoding",
+          "Vocabulary",
+          "Reading fluency"
+        ]
+      },
+      {
+        "id": "montessori",
+        "icon": "puzzle",
+        "name": "Montessori Learning",
+        "group": "Holistic Development",
+        "text": "Purposeful materials and practical life work that grow independence and concentration.",
+        "points": [
+          "Practical life",
+          "Independence",
+          "Fine motor development"
+        ]
+      },
+      {
+        "id": "steam",
+        "icon": "atom",
+        "name": "STEAM Education",
+        "group": "Labs",
+        "text": "Science, Technology, Engineering, Arts and Mathematics through building, designing and testing ideas.",
+        "points": [
+          "Hands-on experiments",
+          "Design",
+          "Creative problem-solving"
+        ]
+      },
+      {
+        "id": "language-lab",
+        "icon": "mic",
+        "name": "Language Labs",
+        "group": "Labs",
+        "text": "A dedicated space for speech, listening and the confidence to speak in front of others.",
+        "points": [
+          "Speech development",
+          "Storytelling",
+          "Public speaking"
+        ]
+      },
+      {
+        "id": "science-lab",
+        "icon": "flask",
+        "name": "Science Labs",
+        "group": "Labs",
+        "text": "Small scientists observe, predict and discover cause and effect.",
+        "points": [
+          "Observation",
+          "Experimentation",
+          "Cause and effect"
+        ]
+      },
+      {
+        "id": "evs-lab",
+        "icon": "leaf",
+        "name": "EVS Labs",
+        "group": "Labs",
+        "text": "The world around us: plants, animals, water, seasons and everyday life.",
+        "points": [
+          "Plants",
+          "Animals",
+          "Seasons",
+          "Environment"
+        ]
+      },
+      {
+        "id": "maths-lab",
+        "icon": "shapes",
+        "name": "Maths Labs",
+        "group": "Labs",
+        "text": "Numbers you can hold: counting, patterns, shapes and measuring.",
+        "points": [
+          "Numbers",
+          "Patterns",
+          "Shapes",
+          "Measurement"
+        ]
+      },
+      {
+        "id": "kindergym",
+        "icon": "gym",
+        "name": "KinderGym",
+        "group": "Movement and arts",
+        "text": "Physical confidence through balance, coordination and joyful movement.",
+        "points": [
+          "Balance",
+          "Coordination",
+          "Physical confidence"
+        ]
+      },
+      {
+        "id": "kindermusic",
+        "icon": "music",
+        "name": "KinderMusic",
+        "group": "Movement and arts",
+        "text": "Rhythm, melody, voice and instruments as a daily language of expression.",
+        "points": [
+          "Rhythm",
+          "Melody",
+          "Instruments"
+        ]
+      },
+      {
+        "id": "financial",
+        "icon": "bank",
+        "name": "Financial Literacy",
+        "group": "Holistic Development",
+        "text": "Early money sense through play: saving, exchange and simple choices.",
+        "points": [
+          "Money awareness",
+          "Saving",
+          "Decision-making"
+        ]
+      },
+      {
+        "id": "psed",
+        "icon": "heart",
+        "name": "PSED",
+        "group": "Holistic Development",
+        "text": "Personal, Social and Emotional Development: learning to understand feelings, build friendships and grow in confidence.",
+        "points": [
+          "Self-awareness",
+          "Empathy",
+          "Cooperation"
+        ]
+      },
+      {
+        "id": "enquiry",
+        "icon": "search",
+        "name": "Enquiry-Based Learning",
+        "group": "Holistic Development",
+        "text": "Children ask, explore and reason their way to understanding. The school has a management-confirmed Korean learning partnership; this is not a Korean curriculum or accreditation claim.",
+        "points": [
+          "Asking questions",
+          "Exploring",
+          "Reasoning"
+        ]
+      },
+      {
+        "id": "performing",
+        "icon": "drama",
+        "name": "Dance, Music and Theatre",
+        "group": "Movement and arts",
+        "text": "Stage, studio and story: children find their voice through performance.",
+        "points": [
+          "Dance",
+          "Acting and theatre",
+          "Music",
+          "Stage confidence"
+        ]
+      }
+    ]
+  }
+}

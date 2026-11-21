@@ -1,0 +1,387 @@
+{
+  "key": "DolphinkidsDayCarePage1",
+  "sectionType": "DayCarePage",
+  "sectionNumber": 1,
+  "scope": "page",
+  "name": "DolphinkidsDayCarePage1",
+  "folder": "daycarepage",
+  "editorFields": [
+    "title",
+    "crumbs",
+    "eyebrow",
+    "title_line",
+    "title_highlight",
+    "title_rest",
+    "lead",
+    "points",
+    "explore_label",
+    "enquire_label",
+    "images",
+    "tour_poster",
+    "tour_video",
+    "tour_title",
+    "stat_value",
+    "stat_text",
+    "arrange_eyebrow",
+    "arrange_title",
+    "main_title",
+    "main_text",
+    "main_note",
+    "main_button",
+    "extended_badge",
+    "extended_title",
+    "extended_highlight",
+    "extended_text",
+    "extended_points",
+    "extended_button",
+    "activities_eyebrow",
+    "activities_title",
+    "activities_lead",
+    "activities_note",
+    "activities",
+    "infra_eyebrow",
+    "infra_title",
+    "stats",
+    "care",
+    "gallery_alt",
+    "gallery",
+    "form_eyebrow",
+    "form_title",
+    "form_lead",
+    "phone",
+    "brochure_label",
+    "card_kicker",
+    "card_title",
+    "card_text",
+    "card_note",
+    "builds_label",
+    "call_label",
+    "success_message",
+    "fields",
+    "contact_title",
+    "needs_title",
+    "arrangement_label",
+    "arrangement_placeholder",
+    "arrangements",
+    "consent",
+    "submit_text",
+    "next_note",
+    "privacy_note",
+    "parentInfo"
+  ],
+  "defaultContent": {
+    "title": "Care that fits your family's day.",
+    "description": "More than Day Care: a 5,000 sq ft dedicated Day Care with 100+ beds, in-house kitchen, infirmary, CCTV and ten developmental activities.",
+    "crumbs": [
+      {
+        "label": "Home",
+        "href": "#page-home"
+      },
+      {
+        "label": "Day Care",
+        "href": ""
+      }
+    ],
+    "eyebrow": "Premium Day Care, Greater Noida",
+    "title_line": "More than Day Care.",
+    "title_highlight": "A second home",
+    "title_rest": "for learning, growth and care.",
+    "lead": "At Dolphin Kids, we believe that every moment in a child's day is an opportunity to learn, explore, develop and grow. Our Day Care brings together nurturing care, structured activities, age-appropriate learning, nutritious meals and thoughtfully designed recreational spaces.",
+    "points": [
+      "5,000 sq ft dedicated space",
+      "Supervised, CCTV-covered rooms",
+      "Ten developmental activities",
+      "In-house kitchen meals",
+      "100+ beds for proper rest",
+      "Dedicated infirmary"
+    ],
+    "explore_label": "Explore our Day Care",
+    "explore_href": "#activities",
+    "enquire_label": "Enquire now",
+    "enquire_href": "#enquiry",
+    "images": [
+      {
+        "src": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/school-activities.webp",
+        "alt": "Children taking part in activities at Dolphin Kids"
+      },
+      {
+        "src": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-3.webp",
+        "alt": "Dolphin Kids campus interior"
+      }
+    ],
+    "tour_poster": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-tour-poster.webp",
+    "tour_video": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/school-tour.mp4",
+    "tour_title": "Watch the school tour",
+    "stat_value": "5,000",
+    "stat_text": "sq ft dedicated to Day Care, within a campus of 20,000 sq ft indoors and 10,000 sq ft of green space.",
+    "arrange_eyebrow": "Two ways to join us",
+    "arrange_title": "Care that fits your family's day.",
+    "main_title": "Dolphin Kids Day Care",
+    "main_text": "From 20 months, for families who need a full, well-paced day. Open to children who attend Dolphin Kids and to children from other schools in Greater Noida.",
+    "main_note": "Day Care timings, facility-based fees and transport information are published below. Ask our team to confirm operating days and pickup arrangements for your location.",
+    "main_button": "Ask about Day Care",
+    "whatsapp_href": "https://wa.me/919811029884",
+    "extended_badge": "Dolphin Group pupils only",
+    "extended_title": "Extended Day Care",
+    "extended_highlight": "One campus. One continuous learning journey.",
+    "extended_text": "Children enrolled in Dolphin Kids School, Dolphin International School or other educational setups operated by the Dolphin Group can extend their school hours on the same campus, subject to campus availability.",
+    "extended_points": [
+      "Seamless transition from regular school to Day Care",
+      "No additional transport between school and Day Care",
+      "Supervised rest and relaxation",
+      "Nutritious meals",
+      "Indoor and outdoor recreation",
+      "Age-appropriate developmental activities",
+      "Flexible extended-hour arrangements",
+      "A familiar campus and familiar faces"
+    ],
+    "extended_button": "Enquire about Extended Day Care",
+    "activities_eyebrow": "Activities and learning",
+    "activities_title": "Beyond childcare. Discovering talents, building confidence.",
+    "activities_lead": "Ten programmes, each chosen for what it grows: confidence, communication, coordination, creativity, discipline, teamwork and independent thinking.",
+    "activities_note": "Photographs are from the Dolphin Kids campus gallery and show the school environment, not necessarily the named activity.",
+    "activities": [
+      {
+        "title": "Personality Development and Confidence Building",
+        "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/classroom-engagement.webp",
+        "text": "Show-and-tell, small responsibilities and gentle stage moments help children speak up, take turns and believe their ideas matter.",
+        "builds": "Confidence · Communication · Independence"
+      },
+      {
+        "title": "Dance and Movement",
+        "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/school-activities.webp",
+        "text": "Rhythm, counting beats and following sequences turn energy into coordination, memory and joyful self-expression.",
+        "builds": "Coordination · Creativity · Teamwork"
+      },
+      {
+        "title": "Karate and Self-Defence",
+        "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-2.webp",
+        "text": "Age-appropriate drills teach focus, respect, balance and body awareness, with the emphasis on discipline rather than contact.",
+        "builds": "Discipline · Coordination · Self-control"
+      },
+      {
+        "title": "Montessori-Based Learning and Training",
+        "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/school-learning.webp",
+        "text": "Practical-life and sensorial materials let children work at their own pace, finish what they start and grow in concentration.",
+        "builds": "Independent thinking · Concentration · Fine motor skills"
+      },
+      {
+        "title": "Basketball",
+        "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-4.webp",
+        "text": "Dribbling, passing and simple team games build hand-eye coordination, spatial awareness and the habit of playing fair.",
+        "builds": "Teamwork · Coordination · Resilience"
+      },
+      {
+        "title": "Language Development and Accent Training",
+        "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/school-discovery.webp",
+        "text": "Conversation circles, stories, rhymes and clear pronunciation practice grow vocabulary and the confidence to be understood.",
+        "builds": "Communication · Vocabulary · Confidence"
+      },
+      {
+        "title": "Academic Assistance and Homework Support",
+        "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-1.webp",
+        "text": "A quiet, supervised slot to complete school work, ask for help and build calm study routines.",
+        "builds": "Discipline · Independent thinking · Routine"
+      },
+      {
+        "title": "Indoor Play Zones",
+        "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-3.webp",
+        "text": "Climbing, building and imaginative play in air-conditioned rooms, so movement continues whatever the weather.",
+        "builds": "Gross motor skills · Creativity · Social play"
+      },
+      {
+        "title": "Outdoor Play Zones",
+        "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-5.webp",
+        "text": "Fresh air, open ground and nature-led discovery, with the supervision and pace adjusted to each age group.",
+        "builds": "Physical health · Curiosity · Risk awareness"
+      },
+      {
+        "title": "Badminton",
+        "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-6.webp",
+        "text": "Light racquets and soft shuttles develop timing, footwork and patience.",
+        "builds": "Coordination · Focus · Sportsmanship"
+      }
+    ],
+    "infra_eyebrow": "Safety, care and infrastructure",
+    "infra_title": "Exceptional care. Thoughtfully designed spaces.",
+    "stats": [
+      {
+        "value": "5,000",
+        "unit": "sq ft",
+        "label": "Dedicated Day Care space"
+      },
+      {
+        "value": "100+",
+        "unit": "",
+        "label": "Day Care beds"
+      },
+      {
+        "value": "Separate",
+        "unit": "",
+        "label": "Age-appropriate rooms"
+      },
+      {
+        "value": "In-house",
+        "unit": "",
+        "label": "Dedicated kitchen"
+      },
+      {
+        "value": "Dedicated",
+        "unit": "",
+        "label": "Infirmary"
+      }
+    ],
+    "care": [
+      {
+        "title": "Rest that is respected",
+        "text": "More than 100 beds across separate, age-appropriate rooms, so nap time follows each child's rhythm rather than the clock."
+      },
+      {
+        "title": "Food from our own kitchen",
+        "text": "A nutritious lunch prepared in a dedicated in-house kitchen with fresh ingredients and high standards of food hygiene."
+      },
+      {
+        "title": "A dedicated infirmary",
+        "text": "A quiet space set aside for a child who feels unwell, so they can rest under supervision while parents are contacted."
+      },
+      {
+        "title": "CCTV surveillance",
+        "text": "Day Care areas are covered by CCTV. Access to footage is governed by school policy and child-privacy safeguards."
+      },
+      {
+        "title": "Indoor and outdoor play",
+        "text": "Air-conditioned indoor play zones alongside outdoor play areas on the same campus."
+      },
+      {
+        "title": "Comfortable, powered spaces",
+        "text": "Air-conditioning and power backup keep the day steady for the youngest children."
+      }
+    ],
+    "gallery_alt": "Dolphin Kids campus",
+    "gallery": [
+      "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-1.webp",
+      "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-2.webp",
+      "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-5.webp",
+      "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-6.webp"
+    ],
+    "form_eyebrow": "Day Care enquiry",
+    "form_title": "Come and see the day for yourself.",
+    "form_lead": "Tell us a little about your child and the care you need. Our team will call to suggest a visit time; visits are confirmed directly by the school.",
+    "phone": "98110 29884",
+    "phone_href": "tel:+919811029884",
+    "brochure_label": "Download the School and Day Care brochure",
+    "brochure_href": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/downloads/dolphin-kids-school-day-care-brochure.pdf",
+    "card_kicker": "Day Care enquiry",
+    "card_title": "Let's understand your child's day",
+    "card_text": "Share your family's routine and request a visit to our Greater Noida campus. Not sure which arrangement fits? We can discuss it.",
+    "card_note": "Required. Everything marked optional can be left blank.",
+    "builds_label": "Builds",
+    "call_label": "Call",
+    "success_message": "Thank you. Our Day Care team will be in touch.",
+    "fields": [
+      {
+        "group": "1",
+        "name": "parent",
+        "label": "Parent's name",
+        "required": true
+      },
+      {
+        "group": "1",
+        "name": "phone",
+        "label": "Contact number",
+        "required": true,
+        "placeholder": "10-digit mobile"
+      },
+      {
+        "group": "1",
+        "name": "email",
+        "label": "Email (optional)",
+        "type": "email",
+        "wide": true
+      },
+      {
+        "group": "2",
+        "name": "child",
+        "label": "Child's name",
+        "required": true
+      },
+      {
+        "group": "2",
+        "name": "age",
+        "label": "Child's age",
+        "required": true,
+        "placeholder": "e.g. 2 years 4 months"
+      },
+      {
+        "group": "2",
+        "name": "school",
+        "label": "School currently attending (optional)",
+        "placeholder": "Leave blank if not yet at school",
+        "wide": true
+      },
+      {
+        "group": "2",
+        "name": "timings",
+        "label": "Preferred timings (optional)",
+        "placeholder": "e.g. 1:30 pm to 6:30 pm, weekdays"
+      },
+      {
+        "group": "2",
+        "name": "area",
+        "label": "Area / locality (optional)",
+        "hint": "Your locality is enough; no full address needed."
+      },
+      {
+        "group": "2",
+        "name": "requirements",
+        "label": "Additional requirements (optional)",
+        "type": "textarea",
+        "placeholder": "Meals, rest routine, pickup needs, allergies or anything we should know",
+        "wide": true
+      }
+    ],
+    "contact_title": "Your contact details",
+    "needs_title": "Your child & Day Care needs",
+    "arrangement_label": "Preferred Day Care arrangement",
+    "arrangement_placeholder": "Please select",
+    "arrangements": [
+      "Full-day Day Care",
+      "Day Care after school (child attends another school)",
+      "Extended Day Care (enrolled in a Dolphin Group school)",
+      "Not sure, please advise"
+    ],
+    "consent": "I agree that Dolphin Kids may store these details and contact me by phone, WhatsApp or email about this enquiry. No marketing list sign-up. (Required)",
+    "submit_text": "Request a campus visit",
+    "next_note": "Your visit is a request. Please wait for the school to confirm a time and Day Care availability.",
+    "privacy_note": "Your details are for this enquiry, not a marketing list.",
+    "parentInfo": {
+      "id": "parent-information",
+      "index": "02c",
+      "eyebrow": "For parents",
+      "title": "Fees, Day Care timings and transport",
+      "lead": "Information below is published only after the school approves it. Where it is not yet published, ask the admissions team for current details.",
+      "phone": "98110 29884",
+      "phone_href": "tel:+919811029884",
+      "call_label": "Call admissions",
+      "action_label": "Ask on WhatsApp",
+      "action_href": "https://wa.me/919811029884",
+      "items": [
+        {
+          "icon": "fees",
+          "title": "Fees",
+          "text": "Current fees for the session you are applying to are shared directly by the admissions office. Please ask for the current fee schedule for your child's class."
+        },
+        {
+          "icon": "timings",
+          "title": "Day Care timings",
+          "text": "Day Care schedules are confirmed by the school. Please ask for the current timings and available plans."
+        },
+        {
+          "icon": "transport",
+          "title": "Transport",
+          "text": "Transport availability depends on your route and location. Please share your area to ask whether a route is currently available."
+        }
+      ]
+    }
+  }
+}

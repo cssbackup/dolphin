@@ -1,0 +1,65 @@
+{
+  "key": "DolphinkidsSenior1",
+  "sectionType": "Senior",
+  "sectionNumber": 1,
+  "scope": "page",
+  "name": "DolphinkidsSenior1",
+  "folder": "senior",
+  "editorFields": [
+    "eyebrow",
+    "title",
+    "highlight",
+    "paragraphs",
+    "boards_label",
+    "boards",
+    "points",
+    "note",
+    "disclaimer",
+    "button"
+  ],
+  "defaultContent": {
+    "id": "senior",
+    "index": "Next",
+    "eyebrow": "Senior school tie-ups",
+    "title": "Seamless Transition to Leading Senior Schools",
+    "highlight": "Strong Foundations Today. Limitless Opportunities Tomorrow.",
+    "paragraphs": [
+      "At Dolphin Kids School, we believe that a child's educational journey should continue seamlessly beyond the foundational years.",
+      "We have established tie-ups and associations with several leading senior schools in Greater Noida and across India to support parents in exploring suitable educational opportunities for their children.",
+      "Our network of senior-school associations helps parents understand different educational pathways, admission procedures and curriculum options for the next stage of their child's academic journey."
+    ],
+    "boards_label": "Educational pathways parents can explore",
+    "boards": [
+      "CBSE",
+      "ICSE",
+      "IB",
+      "Cambridge/IGCSE"
+    ],
+    "points": [
+      {
+        "icon": "school",
+        "text": "Associations with reputed senior schools in Greater Noida and across India."
+      },
+      {
+        "icon": "compass",
+        "text": "Guidance and assistance with senior-school admissions."
+      },
+      {
+        "icon": "book",
+        "text": "Exposure to multiple educational boards, including CBSE, ICSE, IB and Cambridge/IGCSE."
+      },
+      {
+        "icon": "grad",
+        "text": "Academic preparation for a smooth transition to higher classes."
+      },
+      {
+        "icon": "users",
+        "text": "Parent counselling and admission guidance."
+      }
+    ],
+    "note": "For current associated senior school details, please contact our admissions team. We will gladly walk you through the options for your child.",
+    "disclaimer": "Admissions are subject to individual school policies and availability.",
+    "button": "Career Guidance and Admission Committee",
+    "button_href": "https://wa.me/919811029884?text=Hello%20Dolphin%20Kids%20Career%20Guidance%20and%20Admission%20Committee%2C%20I%20would%20like%20to%20explore%20senior%20school%20opportunities."
+  }
+}

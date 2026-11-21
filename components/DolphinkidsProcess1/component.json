@@ -1,0 +1,232 @@
+{
+  "key": "DolphinkidsProcess1",
+  "sectionType": "Process",
+  "sectionNumber": 1,
+  "scope": "page",
+  "name": "DolphinkidsProcess1",
+  "folder": "process",
+  "editorFields": [
+    "eyebrow",
+    "scope",
+    "title",
+    "lead",
+    "notice_lead",
+    "notice",
+    "actions",
+    "action_note",
+    "steps_title",
+    "steps",
+    "checklist_kicker",
+    "checklist_title",
+    "checklist_note",
+    "documents",
+    "age_kicker",
+    "age_title",
+    "age_text",
+    "ages",
+    "age_note",
+    "guidelines_kicker",
+    "guidelines_title",
+    "guidelines",
+    "closing_title",
+    "closing_text",
+    "closing_button"
+  ],
+  "defaultContent": {
+    "id": "process",
+    "index": "01–09",
+    "eyebrow": "Admission process",
+    "scope": "Nursery to Grade 2",
+    "title": "Making every step towards learning simple, smooth and memorable.",
+    "lead": "At Dolphin Kids School, we believe that every child is unique. Our admission process is designed to make the journey from the first enquiry to the first day of school easy, transparent and parent-friendly.",
+    "notice_lead": "This process applies to Nursery through Grade 2 only.",
+    "notice": "Pre-Nursery is not included. For Pre-Nursery admission from 20 months, please contact our admissions team separately; the 31 March session cut-off does not apply.",
+    "actions": [
+      {
+        "name": "Start an enquiry",
+        "href": "https://wa.me/919310589888",
+        "style": "solid"
+      },
+      {
+        "name": "Call 98110 29884",
+        "href": "tel:+919811029884",
+        "style": "outline"
+      },
+      {
+        "name": "Admission brochure (PDF)",
+        "href": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/downloads/dolphin-kids-school-day-care-brochure.pdf",
+        "style": "link"
+      }
+    ],
+    "action_note": "WhatsApp opens with a prepared message; nothing is sent until you press send.",
+    "steps_title": "Nine steps, from first hello to first day",
+    "steps": [
+      {
+        "title": "Admission Enquiry",
+        "intro": "Parents can enquire about admissions through our website, telephone, WhatsApp or by visiting the school campus.",
+        "points": [
+          "Share basic details of the child.",
+          "Know about programmes, age eligibility, facilities and fee structure.",
+          "Schedule a school visit."
+        ]
+      },
+      {
+        "title": "Campus Visit & School Tour",
+        "intro": "Parents are invited to visit the Dolphin Kids campus to experience our learning environment.",
+        "points": [
+          "Explore classrooms, activity zones and play areas.",
+          "Understand our curriculum and teaching methodology.",
+          "Interact with the admission counsellor.",
+          "Learn about day care, transport and extracurricular activities."
+        ]
+      },
+      {
+        "title": "Admission Counselling",
+        "intro": "Our admission team helps parents select the most suitable programme based on the child's age, previous schooling and developmental readiness.",
+        "points": [
+          "Discussion about the child's interests and learning needs.",
+          "Explanation of curriculum, programmes and facilities.",
+          "Guidance on class placement and school readiness."
+        ]
+      },
+      {
+        "title": "Registration & Application Form",
+        "intro": "Parents complete the admission registration process.",
+        "points": [
+          "Fill in the admission application form.",
+          "Submit the required registration fee.",
+          "Provide the child's and parents' basic information.",
+          "Receive acknowledgement of registration."
+        ],
+        "note": "Registration does not guarantee admission."
+      },
+      {
+        "title": "Child Interaction & Readiness Assessment",
+        "intro": "An age-appropriate interaction is conducted to understand the child's developmental level.",
+        "points": [
+          "Play-based interaction for younger children.",
+          "Observation of communication, social interaction and confidence.",
+          "Age-appropriate academic interaction for higher grades.",
+          "No formal entrance examination for early years."
+        ],
+        "note": "The interaction is intended to understand the child's learning needs and support appropriate class placement."
+      },
+      {
+        "title": "Document Submission",
+        "intro": "Parents are requested to submit the required documents, listed in full in the checklist.",
+        "points": [
+          "Birth certificate, photographs and address proof.",
+          "Aadhaar, previous report card and Transfer Certificate wherever applicable.",
+          "PEN for students transferring from another school, wherever applicable."
+        ]
+      },
+      {
+        "title": "Admission Confirmation & Fee Payment",
+        "intro": "Once the application and documents are verified, parents receive admission confirmation.",
+        "points": [
+          "Payment of admission and applicable fees.",
+          "Confirmation of the allotted class.",
+          "Issuance of fee receipt.",
+          "Sharing of admission confirmation and joining details."
+        ]
+      },
+      {
+        "title": "Parent Orientation & Welcome",
+        "intro": "Before the child begins school, parents are guided through the school's policies and routines.",
+        "points": [
+          "Introduction to teachers and school staff.",
+          "Information about school timings and uniform.",
+          "Explanation of MySkoolLite Parent App.",
+          "Transport and day care arrangements, if required."
+        ]
+      },
+      {
+        "title": "Welcome to Dolphin Kids!",
+        "intro": "Your child's exciting learning journey begins!",
+        "points": [
+          "Welcome kit and school essentials.",
+          "Classroom familiarisation.",
+          "Introduction to classmates and teachers.",
+          "A happy and comfortable settling-in experience."
+        ]
+      }
+    ],
+    "checklist_kicker": "Checklist",
+    "checklist_title": "Documents required at the time of admission",
+    "checklist_note": "PEN: Permanent Education Number, for students transferring from another school, wherever applicable.",
+    "documents": [
+      {
+        "name": "Child's Birth Certificate",
+        "detail": "Mandatory"
+      },
+      {
+        "name": "Child's Photographs",
+        "detail": "Recent, passport-size"
+      },
+      {
+        "name": "Parents' Photographs",
+        "detail": "Recent, passport-size"
+      },
+      {
+        "name": "Address Proof",
+        "detail": "Required (parents)"
+      },
+      {
+        "name": "Aadhaar Details",
+        "detail": "Child / parents, wherever applicable"
+      },
+      {
+        "name": "Previous School Report Card",
+        "detail": "For transfer cases"
+      },
+      {
+        "name": "Transfer Certificate",
+        "detail": "Wherever applicable"
+      },
+      {
+        "name": "PEN Number",
+        "detail": "For applicable transfer cases"
+      }
+    ],
+    "age_kicker": "Age eligibility",
+    "age_title": "Nursery to Grade 2: minimum age",
+    "age_text": "For the 2027–28 session, age is calculated as on 31 March 2027.",
+    "ages": [
+      {
+        "name": "Nursery PP1",
+        "age": "2 years 8 months"
+      },
+      {
+        "name": "LKG PP2",
+        "age": "3 years 8 months"
+      },
+      {
+        "name": "UKG PP3",
+        "age": "4 years 8 months"
+      },
+      {
+        "name": "Grade 1",
+        "age": "5 years 8 months"
+      },
+      {
+        "name": "Grade 2",
+        "age": "6 years 8 months"
+      }
+    ],
+    "age_note": "Age eligibility should be verified against the applicable academic session's prescribed cut-off date and prevailing government guidelines.",
+    "guidelines_kicker": "Please note",
+    "guidelines_title": "Important admission guidelines",
+    "guidelines": [
+      "Admissions are subject to seat availability.",
+      "Submission of an application or registration form does not guarantee admission.",
+      "Admission is confirmed only after document verification and payment of applicable fees.",
+      "Parents must provide accurate information and valid documents.",
+      "Any change in personal details must be communicated to the school office.",
+      "The school reserves the right to verify submitted documents."
+    ],
+    "closing_title": "Where Little Minds Grow into Big Thinkers!",
+    "closing_text": "Dolphin Kids School, Gamma 1, Greater Noida",
+    "closing_button": "Request a campus visit",
+    "closing_href": "#enquire"
+  }
+}

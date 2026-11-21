@@ -1,0 +1,14 @@
+{
+  "key": "DolphinkidsBreadcrumb1",
+  "sectionType": "Breadcrumb",
+  "sectionNumber": 1,
+  "scope": "page",
+  "name": "DolphinkidsBreadcrumb1",
+  "folder": "breadcrumb",
+  "editorFields": [
+    "title"
+  ],
+  "defaultContent": {
+    "title": "Day Care"
+  }
+}

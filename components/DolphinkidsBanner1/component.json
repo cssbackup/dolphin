@@ -1,0 +1,89 @@
+{
+  "key": "DolphinkidsBanner1",
+  "sectionType": "Banner",
+  "sectionNumber": 1,
+  "scope": "page",
+  "name": "DolphinkidsBanner1",
+  "folder": "banner",
+  "editorFields": [
+    "badge",
+    "eyebrow",
+    "title",
+    "title_rest",
+    "title_highlight",
+    "lead_strong",
+    "lead",
+    "primary_text",
+    "secondary_text",
+    "phone",
+    "call_label",
+    "whatsapp_text",
+    "links",
+    "origins",
+    "origins_note",
+    "poster",
+    "poster_alt",
+    "play_label",
+    "pause_label",
+    "video",
+    "year",
+    "year_label",
+    "caption"
+  ],
+  "defaultContent": {
+    "id": "home",
+    "badge": "ADMISSIONS OPEN",
+    "eyebrow": "Dolphin Kids School · Greater Noida · Since 2002",
+    "title": "Preschool to Grade",
+    "title_rest": "2",
+    "title_highlight": "& Day Care.",
+    "lead_strong": "Indian & International Curriculum.",
+    "lead": "Indian values and foundational learning, enriched by international early-years programmes. Premium Day Care, with Extended Day Care for Dolphin Group families.",
+    "primary_text": "Admission enquiry",
+    "primary_href": "#enquire",
+    "secondary_text": "Download Admission Brochure",
+    "secondary_href": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/downloads/dolphin-kids-school-day-care-brochure.pdf",
+    "phone": "98110 29884",
+    "call_label": "Call",
+    "phone_href": "tel:+919811029884",
+    "whatsapp_text": "Or message us on WhatsApp (optional)",
+    "whatsapp_href": "https://wa.me/919310589888",
+    "links": [
+      {
+        "name": "Find your child's programme",
+        "href": "#admissions"
+      },
+      {
+        "name": "Visit our campus virtually",
+        "href": "#campus"
+      },
+      {
+        "name": "Explore franchise opportunities",
+        "href": "#franchise"
+      }
+    ],
+    "origins": [
+      {
+        "country": "India",
+        "detail": "Indian values and foundational learning, with hands-on mathematics through Jodo Gyan."
+      },
+      {
+        "country": "England",
+        "detail": "Jolly Phonics and Jolly Grammar for literacy; STEM UK as listed by the school."
+      },
+      {
+        "country": "Australia",
+        "detail": "Fitzroy Readers: a phonics-based pathway towards reading fluency."
+      }
+    ],
+    "origins_note": "Programme origins, not government endorsement or board accreditation.",
+    "poster": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-tour-poster.webp",
+    "poster_alt": "A classroom on the Dolphin Kids campus in Greater Noida",
+    "play_label": "",
+    "pause_label": "Pause school film",
+    "video": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/school-film.mp4",
+    "year": "",
+    "year_label": "Pioneer International School and day care",
+    "caption": "Our campus, Greater Noida. Original promotional film; current programmes are listed below."
+  }
+}

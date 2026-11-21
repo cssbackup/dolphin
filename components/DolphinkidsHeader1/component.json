@@ -1,0 +1,430 @@
+{
+  "key": "DolphinkidsHeader1",
+  "sectionType": "Header",
+  "sectionNumber": 1,
+  "scope": "page",
+  "name": "DolphinkidsHeader1",
+  "folder": "header",
+  "editorFields": [
+    "banner",
+    "logo",
+    "logo_alt",
+    "login_text",
+    "coming_soon",
+    "phase_title",
+    "close_label",
+    "menu_label",
+    "open_menu",
+    "close_menu",
+    "overview_label",
+    "login_title",
+    "login_body",
+    "phone",
+    "call_label",
+    "button_text",
+    "promo_text",
+    "admission_brochure",
+    "admission_brochure_text",
+    "franchise_brochure",
+    "franchise_brochure_text",
+    "logoImage",
+    "image"
+  ],
+  "defaultContent": {
+    "banner": "ADMISSIONS OPEN | GREATER NOIDA",
+    "banner_href": "#admissions",
+    "logo": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/dolphin-kids-logo.png",
+    "logo_alt": "Dolphin Kids - Come Grow With Us",
+    "logo_href": "#page-home",
+    "utility": [
+      {
+        "name": "About Us",
+        "href": "#about"
+      },
+      {
+        "name": "Contact Us",
+        "href": "#contact"
+      },
+      {
+        "name": "Senior School Tie-ups",
+        "href": "#senior"
+      },
+      {
+        "name": "Parenting Journal",
+        "href": "#page-journal"
+      }
+    ],
+    "login_text": "Parent Login",
+    "coming_soon": "Coming soon",
+    "phase_title": "Coming in the next phase",
+    "close_label": "Close",
+    "menu_label": "Menu",
+    "open_menu": "Open menu",
+    "close_menu": "Close menu",
+    "overview_label": "Overview",
+    "login_title": "Parent portal not yet available",
+    "login_body": "The parent portal link has not been supplied by the school yet. For anything you need today, please call admissions on 98110 29884.",
+    "phone": "98110 29884",
+    "phone_href": "tel:+919811029884",
+    "call_label": "Call",
+    "button_text": "Admission Enquiry",
+    "button_href": "#enquire",
+    "promo_text": "Discover the Franchise Opportunity",
+    "promo_href": "#franchise",
+    "admission_brochure": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/downloads/dolphin-kids-school-day-care-brochure.pdf",
+    "admission_brochure_text": "Admission Brochure",
+    "franchise_brochure": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/downloads/dolphin-franchise-brochure.pdf",
+    "franchise_brochure_text": "Franchise Brochure",
+    "nav": [
+      {
+        "name": "Home",
+        "href": "#home",
+        "blurb": "Back to the beginning.",
+        "items": []
+      },
+      {
+        "name": "Admissions",
+        "href": "#admissions",
+        "blurb": "Admissions open, Preschool to Grade 2.",
+        "items": [
+          {
+            "name": "Preschool",
+            "href": "#admissions"
+          },
+          {
+            "name": "Nursery PP1",
+            "href": "#admissions"
+          },
+          {
+            "name": "LKG PP2",
+            "href": "#admissions"
+          },
+          {
+            "name": "UKG PP3",
+            "href": "#admissions"
+          },
+          {
+            "name": "Grade 1",
+            "href": "#admissions"
+          },
+          {
+            "name": "Grade 2",
+            "href": "#admissions"
+          },
+          {
+            "name": "Age Eligibility",
+            "href": "#admissions"
+          },
+          {
+            "name": "Admission Process",
+            "href": "#process"
+          },
+          {
+            "name": "Fees, Hours & Transport",
+            "href": "#process"
+          },
+          {
+            "name": "Book a Campus Visit",
+            "href": "#enquire"
+          }
+        ]
+      },
+      {
+        "name": "Day Care",
+        "href": "#page-day-care",
+        "blurb": "More than Day Care. A second home for learning, growth and care.",
+        "items": [
+          {
+            "name": "Premium Day Care",
+            "href": "#page-day-care"
+          },
+          {
+            "name": "Day Care for Other School Children",
+            "href": "#page-day-care"
+          },
+          {
+            "name": "Activities and Learning",
+            "href": "#page-day-care"
+          },
+          {
+            "name": "Extended Day Care",
+            "href": "#page-day-care"
+          },
+          {
+            "name": "Safety, Care and Infrastructure",
+            "href": "#page-day-care"
+          },
+          {
+            "name": "Day Care Enquiry",
+            "href": "#page-day-care"
+          }
+        ]
+      },
+      {
+        "name": "Why Dolphin Kids",
+        "href": "#why",
+        "blurb": "What parents tell us matters most.",
+        "items": [
+          {
+            "name": "About Us",
+            "href": "#about"
+          },
+          {
+            "name": "Senior School Tie-ups",
+            "href": "#senior"
+          },
+          {
+            "name": "Qualified and Experienced Teachers",
+            "href": "#why-qualified-and-experienced-teachers"
+          },
+          {
+            "name": "Teacher-Child Ratio",
+            "note": "Teacher-child ratios will be published only once confirmed by the school. Please ask our admissions team for current class arrangements."
+          },
+          {
+            "name": "Language and Speech Development",
+            "href": "#why-language-and-speech-development"
+          },
+          {
+            "name": "Behavioural Management",
+            "href": "#why-positive-behavioural-management-and-psed"
+          },
+          {
+            "name": "PSED",
+            "href": "#why-positive-behavioural-management-and-psed"
+          },
+          {
+            "name": "Caring and Supportive Staff",
+            "href": "#why-caring-and-supportive-staff"
+          },
+          {
+            "name": "Infrastructure",
+            "href": "#campus"
+          },
+          {
+            "name": "Child Safety",
+            "href": "#safety-care"
+          },
+          {
+            "name": "Transportation",
+            "note": "Bus services across Greater Noida sectors are route-dependent. Route details will be published once confirmed; ask our team about your sector."
+          },
+          {
+            "name": "Parent Testimonials",
+            "href": "#parents"
+          }
+        ]
+      },
+      {
+        "name": "Learning",
+        "href": "#learning",
+        "blurb": "A connected world of learning, discovery and expression.",
+        "items": [
+          {
+            "name": "International Curriculum",
+            "href": "#learning-international"
+          },
+          {
+            "name": "Jolly Phonics",
+            "href": "#learning-jolly-phonics"
+          },
+          {
+            "name": "Jolly Grammar",
+            "href": "#learning-jolly-grammar"
+          },
+          {
+            "name": "Grammar Starter",
+            "href": "#learning-grammar-starter"
+          },
+          {
+            "name": "Fitzroy Readers",
+            "href": "#learning-fitzroy"
+          },
+          {
+            "name": "Montessori Learning",
+            "href": "#learning-montessori"
+          },
+          {
+            "name": "STEAM Education",
+            "href": "#learning-steam"
+          },
+          {
+            "name": "Language Labs",
+            "href": "#learning-language-lab"
+          },
+          {
+            "name": "Science Labs",
+            "href": "#learning-science-lab"
+          },
+          {
+            "name": "EVS Labs",
+            "href": "#learning-evs-lab"
+          },
+          {
+            "name": "Maths Labs",
+            "href": "#learning-maths-lab"
+          },
+          {
+            "name": "KinderGym",
+            "href": "#learning-kindergym"
+          },
+          {
+            "name": "KinderMusic",
+            "href": "#learning-kindermusic"
+          },
+          {
+            "name": "Financial Literacy",
+            "href": "#learning-financial"
+          },
+          {
+            "name": "PSED",
+            "href": "#learning-psed"
+          },
+          {
+            "name": "Enquiry-Based Learning",
+            "href": "#learning-enquiry"
+          },
+          {
+            "name": "Dance, Music and Theatre",
+            "href": "#learning-performing"
+          }
+        ]
+      },
+      {
+        "name": "Campus",
+        "href": "#campus",
+        "blurb": "One campus. A world of learning experiences.",
+        "items": [
+          {
+            "name": "Virtual School Tour",
+            "href": "#campus"
+          },
+          {
+            "name": "Infrastructure",
+            "href": "#campus"
+          },
+          {
+            "name": "Indoor Play Zones",
+            "href": "#campus"
+          },
+          {
+            "name": "Outdoor Play Zones",
+            "href": "#campus"
+          },
+          {
+            "name": "Laboratories",
+            "href": "#campus"
+          },
+          {
+            "name": "Sports Facilities",
+            "href": "#campus"
+          },
+          {
+            "name": "Activity Centres",
+            "href": "#learning"
+          },
+          {
+            "name": "Gallery",
+            "href": "#campus"
+          },
+          {
+            "name": "Videos",
+            "href": "#campus"
+          },
+          {
+            "name": "School Events",
+            "note": "School events and celebrations will have their own detailed page in the next phase. For now, our admissions team can answer any question directly."
+          }
+        ]
+      },
+      {
+        "name": "Franchise",
+        "href": "#franchise",
+        "blurb": "A separate journey for partners across India.",
+        "items": [
+          {
+            "name": "Why Dolphin Franchise?",
+            "href": "#franchise-why"
+          },
+          {
+            "name": "Corporate Day Care",
+            "href": "#franchise-corporate"
+          },
+          {
+            "name": "Studio and Home Schools",
+            "href": "#franchise-studio"
+          },
+          {
+            "name": "Dolphin Kids Junior",
+            "href": "#franchise-junior"
+          },
+          {
+            "name": "Dolphin Kids Elementary",
+            "href": "#franchise-elementary"
+          },
+          {
+            "name": "Middle School",
+            "href": "#franchise-elementary"
+          },
+          {
+            "name": "Dolphin International School K-12",
+            "href": "#franchise-k12"
+          },
+          {
+            "name": "Premium & Expandable Schools",
+            "href": "#franchise-projects"
+          },
+          {
+            "name": "Royalty & Agreement Terms",
+            "href": "#franchise-terms"
+          },
+          {
+            "name": "Franchise Partner Support",
+            "href": "#franchise-support"
+          },
+          {
+            "name": "Senior School Tie-ups",
+            "href": "#senior"
+          },
+          {
+            "name": "Franchise Enquiry",
+            "href": "#enquire"
+          }
+        ]
+      },
+      {
+        "name": "Journal",
+        "href": "#page-journal",
+        "blurb": "The Parenting Journal. Growing together, learning together.",
+        "items": [
+          {
+            "name": "Latest Articles",
+            "href": "#page-journal"
+          },
+          {
+            "name": "Parenting Categories",
+            "href": "#page-journal"
+          },
+          {
+            "name": "Age-Wise Guides",
+            "href": "#page-journal"
+          },
+          {
+            "name": "Free Resources",
+            "href": "#page-journal-resources"
+          },
+          {
+            "name": "Parenting Workshops",
+            "href": "#page-journal-resources"
+          },
+          {
+            "name": "Subscribe",
+            "href": "#page-journal"
+          }
+        ]
+      }
+    ],
+    "logoImage": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/dolphin-kids-logo.png",
+    "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/dolphin-kids-logo.png"
+  }
+}

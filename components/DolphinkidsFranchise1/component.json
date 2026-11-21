@@ -1,0 +1,320 @@
+{
+  "key": "DolphinkidsFranchise1",
+  "sectionType": "Franchise",
+  "sectionNumber": 1,
+  "scope": "page",
+  "name": "DolphinkidsFranchise1",
+  "folder": "franchise",
+  "editorFields": [
+    "eyebrow",
+    "badge",
+    "title",
+    "lead",
+    "disclaimer",
+    "targets",
+    "targets_note",
+    "reasons_eyebrow",
+    "reasons_title",
+    "reasons",
+    "terms",
+    "terms_note",
+    "support_eyebrow",
+    "support_title",
+    "support",
+    "support_note",
+    "models_eyebrow",
+    "models_title",
+    "models_lead",
+    "view_label",
+    "models",
+    "projects_kicker",
+    "projects",
+    "discuss_label",
+    "budget_title",
+    "budget_text",
+    "whatsapp_label",
+    "brochure_label",
+    "form_kicker",
+    "form_title",
+    "form_lead",
+    "form_note",
+    "success_message",
+    "school_group",
+    "select_placeholder",
+    "name_label",
+    "phone_label",
+    "phone_placeholder",
+    "email_label",
+    "city_label",
+    "state_label",
+    "format_label",
+    "capacity_label",
+    "capacity_placeholder",
+    "consent",
+    "submit_text",
+    "form_footer",
+    "footnote"
+  ],
+  "defaultContent": {
+    "id": "franchise",
+    "index": "10",
+    "eyebrow": "Dolphin Kids franchise opportunity",
+    "badge": "FOR EDUCATION PARTNERS IN INDIA AND BEYOND",
+    "title": "Build a Successful Education Business with a Trusted Brand",
+    "lead": "Own a premium preschool and school franchise with Dolphin Kids. Join a network focused on international learning practices, quality education, innovation and sustainable growth, with a model designed for flexibility, brand support and long-term growth potential.",
+    "disclaimer": "For investors, this is an opportunity to evaluate, not a promise of results. Business success, enrolment and returns are not guaranteed and depend on your location, execution and market.",
+    "targets": [
+      {
+        "label": "Target operating profit margin",
+        "value": "40–60%",
+        "note": "Of fees collected; not a guaranteed return."
+      },
+      {
+        "label": "Target initial-capital recovery",
+        "value": "2 years",
+        "note": "A planning target, not a payback promise."
+      },
+      {
+        "label": "Initial working-capital reserve",
+        "value": "3 months",
+        "note": "Operating expenses continue beyond this reserve."
+      }
+    ],
+    "targets_note": "School-management targets, not guarantees or verified historical results. Actual outcomes depend on enrolment, fee collection, property costs, staffing, occupancy and execution. Obtain a full budget and independent advice before investing.",
+    "reasons_eyebrow": "Why choose a Dolphin Kids franchise",
+    "reasons_title": "Seven reasons partners look closer",
+    "reasons": [
+      {
+        "n": "01",
+        "title": "Global demand from parents",
+        "points": [
+          "Growing preference for international-quality early childhood education.",
+          "Increasing demand for structured preschool and primary education.",
+          "Internationally inspired curriculum and modern teaching methodologies.",
+          "Opportunity to serve parents seeking premium educational experiences."
+        ]
+      },
+      {
+        "n": "02",
+        "title": "Premium and higher fee structure",
+        "points": [
+          "Opportunity to operate with a premium fee positioning.",
+          "Access to multiple programmes and value-added learning offerings.",
+          "Scope for diversified revenue through preschool, primary school, day care and extracurricular activities.",
+          "Flexible fee positioning based on location, infrastructure and market potential."
+        ]
+      },
+      {
+        "n": "03",
+        "title": "Flexible area franchise model",
+        "points": [
+          "Franchise rights are associated with an approved geographical area.",
+          "Suitable for both owned and rented properties.",
+          "For rented premises, relocation may be permitted, subject to company approval.",
+          "Opportunity to retain franchise rights while changing location within the approved territory."
+        ]
+      },
+      {
+        "n": "04",
+        "title": "Established and diversified network",
+        "points": [
+          "Become part of the Dolphin Kids franchise network across Pre-Nursery to Senior School, Day Care and ISMPA.",
+          "Benefit from shared knowledge, operational expertise and brand recognition.",
+          "Access standardised academic programmes and operational systems.",
+          "Explore multiple education formats under one brand."
+        ]
+      },
+      {
+        "n": "05",
+        "title": "Royalty structure: 10–25% from day one",
+        "points": [
+          "Royalty applies from the first day of operations.",
+          "The applicable rate within the 10–25% range depends on the selected franchise model.",
+          "Commercial terms are defined under the franchise agreement.",
+          "Structured brand and academic support in accordance with the applicable package."
+        ]
+      },
+      {
+        "n": "06",
+        "title": "Flexible ownership and constitution",
+        "points": [
+          "Flexibility to change the constitution of the franchise entity, subject to company approval.",
+          "Addition of business partners or directors permitted, subject to company approval.",
+          "Change in ownership may be considered, subject to the agreement.",
+          "Business continuity can be maintained through an approved transfer process."
+        ]
+      },
+      {
+        "n": "07",
+        "title": "Long franchise tenure: up to 7 years",
+        "points": [
+          "Franchise agreement tenure of up to 7 years, subject to agreed terms.",
+          "Supports long-term business planning and operational stability.",
+          "Opportunity to establish and grow your educational institution over an extended period.",
+          "Renewal and continuation subject to the franchise agreement."
+        ]
+      }
+    ],
+    "terms": [
+      {
+        "label": "Royalty range",
+        "value": "10–25%",
+        "note": "From day one; rate depends on the model."
+      },
+      {
+        "label": "Agreement tenure",
+        "value": "Up to 7 years",
+        "note": "Renewal subject to agreement terms."
+      },
+      {
+        "label": "Territory",
+        "value": "Approved area",
+        "note": "Relocation and ownership changes need company approval."
+      }
+    ],
+    "terms_note": "The calculation basis, applicable taxes, payment schedule and package inclusions must be confirmed in the signed franchise agreement. Renewal, territory changes and ownership changes remain subject to approval and the applicable agreement.",
+    "support_eyebrow": "What you receive as a franchise partner",
+    "support_title": "Support from launch to everyday operations",
+    "support": [
+      "Brand name and branding support",
+      "Curriculum and academic planning",
+      "Teacher training and orientation",
+      "Admission and marketing guidance",
+      "Operational systems and school management support",
+      "Academic resources and learning programmes",
+      "Website and digital marketing guidance",
+      "Ongoing academic and operational assistance"
+    ],
+    "support_note": "Exact support and inclusions depend on the selected franchise package and are confirmed in writing.",
+    "models_eyebrow": "Franchise models",
+    "models_title": "Compare formats and indicative ranges",
+    "models_lead": "Corporate Day Care affiliation starts from ₹2.5 lakh onwards. Final investment, franchise fee, setup, infrastructure requirements, royalty and commercial terms depend on the selected model, location and written project scope.",
+    "view_label": "View format",
+    "models": [
+      {
+        "id": "why",
+        "icon": "award",
+        "title": "Why Dolphin Franchise?",
+        "text": "Brand experience with curriculum, training and operations support.",
+        "points": [
+          "Curriculum support",
+          "Teacher training",
+          "Academic systems",
+          "Marketing assistance"
+        ]
+      },
+      {
+        "id": "corporate",
+        "icon": "case",
+        "title": "Corporate Day Care",
+        "text": "Workplace and institutional childcare for organisations.",
+        "points": [
+          "Corporate employee childcare",
+          "Workplace Day Care",
+          "Institutional Day Care"
+        ],
+        "fee_label": "Brand affiliation fee",
+        "fee": "₹2.5 lakh–₹1 crore",
+        "fee_note": "Indicative range; confirm scope and inclusions."
+      },
+      {
+        "id": "studio",
+        "icon": "home",
+        "title": "Studio and Home Schools",
+        "text": "Compact early-learning formats for smaller spaces.",
+        "points": [
+          "Compact format",
+          "Early learning focus",
+          "Academic support"
+        ],
+        "fee_label": "Area-franchise setup cost",
+        "fee": "₹7–50 lakh",
+        "fee_note": "Indicative range; confirm scope and inclusions."
+      },
+      {
+        "id": "junior",
+        "icon": "baby",
+        "title": "Dolphin Kids Junior",
+        "text": "Preschool and early-learning centres.",
+        "points": [
+          "Preschool",
+          "Early years curriculum",
+          "Training support"
+        ],
+        "fee_label": "Setup cost including franchise fee",
+        "fee": "₹10–25 lakh",
+        "fee_note": "Up to 3 rooms; franchise fee included."
+      },
+      {
+        "id": "elementary",
+        "icon": "school",
+        "title": "Elementary and Middle School",
+        "text": "Expandable school formats beyond the early years.",
+        "points": [
+          "Elementary",
+          "Middle School",
+          "Expandable format"
+        ],
+        "fee_label": "Franchise fee",
+        "fee": "₹7.5 lakh–₹1 crore",
+        "fee_note": "Setup additional, based on building design."
+      },
+      {
+        "id": "k12",
+        "icon": "landmark",
+        "title": "Dolphin International School K-12",
+        "text": "Full-school opportunities, subject to applicable approvals.",
+        "points": [
+          "Indian and international curriculum options",
+          "Subject to approvals and authorisations"
+        ],
+        "fee_label": "K-12 / Senior Secondary franchise fee",
+        "fee": "₹25 lakh–₹5 crore",
+        "fee_note": "Indicative range; confirm scope and inclusions."
+      }
+    ],
+    "projects_kicker": "PROJECT-SCOPED OPPORTUNITY",
+    "projects": [
+      {
+        "title": "Dolphin Kids Premium School",
+        "text": "A premium school opportunity scoped around the site, building and programme mix you propose.",
+        "value": "As per project scope",
+        "note": "No fixed price is published; investment is set after a written scope review."
+      },
+      {
+        "title": "Expandable School Franchise",
+        "text": "A school format planned to grow in stages, with investment customised to the agreed scope.",
+        "value": "Customised investment",
+        "note": "No fixed price is published; investment is set after a written scope review."
+      }
+    ],
+    "discuss_label": "Discuss this format",
+    "discuss_href": "https://wa.me/919811029884",
+    "budget_title": "Build your local operating budget",
+    "budget_text": "Test your own enrolment, fees and costs before requesting a proposal. Your scenario stays on your device; results are estimates, not promised returns.",
+    "whatsapp_label": "Request a franchise proposal on WhatsApp",
+    "whatsapp_href": "https://wa.me/919811029884",
+    "brochure_label": "Download Franchise Brochure",
+    "brochure_href": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/downloads/dolphin-franchise-brochure.pdf",
+    "form_kicker": "Franchise enquiry",
+    "form_title": "Start a considered conversation",
+    "form_lead": "Tell us where you would like to build a Dolphin Kids school and what you have in mind. Early-stage enquiries are welcome.",
+    "form_note": "Required. Everything marked optional can be left blank.",
+    "success_message": "Thank you. Your franchise enquiry is noted.",
+    "school_group": "Your proposed school",
+    "select_placeholder": "Please select",
+    "name_label": "Full name",
+    "phone_label": "Contact number",
+    "phone_placeholder": "10-digit mobile",
+    "email_label": "Email",
+    "city_label": "City",
+    "state_label": "State",
+    "format_label": "Franchise format of interest",
+    "capacity_label": "Approximate investment capacity (optional)",
+    "capacity_placeholder": "A range, or Not yet decided",
+    "consent": "I agree that Dolphin Kids may store these details and contact me by phone, WhatsApp or email about this enquiry. No marketing list sign-up. (Required)",
+    "submit_text": "Send franchise enquiry",
+    "form_footer": "This starts a franchise discussion; it is not an offer, approval or commitment.",
+    "footnote": "WhatsApp opens with a draft message for you to edit and send; no call is booked automatically. Explore five formats, indicative fees and setup ranges. Financial figures are management targets, not guarantees. Curriculum and board options depend on location, eligibility and approvals."
+  }
+}

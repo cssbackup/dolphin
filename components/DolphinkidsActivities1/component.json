@@ -1,0 +1,61 @@
+{
+  "key": "DolphinkidsActivities1",
+  "sectionType": "Activities",
+  "sectionNumber": 1,
+  "scope": "page",
+  "name": "DolphinkidsActivities1",
+  "folder": "activities",
+  "editorFields": [
+    "eyebrow",
+    "title",
+    "lead",
+    "image",
+    "image_alt",
+    "caption",
+    "items"
+  ],
+  "defaultContent": {
+    "id": "activities",
+    "index": "08",
+    "eyebrow": "Extracurricular development",
+    "title": "Stages, studios and open fields.",
+    "lead": "Confidence grows when children perform, play and make things with their hands. Space for movement, music and expression is part of a well-rounded childhood.",
+    "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-2.webp",
+    "image_alt": "Children celebrating together at Dolphin Kids",
+    "caption": "Shared stories. New friendships. Room to express.",
+    "items": [
+      {
+        "name": "Dance",
+        "icon": "dance"
+      },
+      {
+        "name": "Acting",
+        "icon": "acting"
+      },
+      {
+        "name": "Theatre",
+        "icon": "theatre"
+      },
+      {
+        "name": "Music",
+        "icon": "music"
+      },
+      {
+        "name": "Instruments",
+        "icon": "instruments"
+      },
+      {
+        "name": "Sports",
+        "icon": "sports"
+      },
+      {
+        "name": "Calligraphy",
+        "icon": "calligraphy"
+      },
+      {
+        "name": "Creative arts",
+        "icon": "arts"
+      }
+    ]
+  }
+}

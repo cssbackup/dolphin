@@ -1,0 +1,46 @@
+{
+  "key": "DolphinkidsTour1",
+  "sectionType": "Tour",
+  "sectionNumber": 1,
+  "scope": "page",
+  "name": "DolphinkidsTour1",
+  "folder": "tour",
+  "editorFields": [
+    "eyebrow",
+    "title",
+    "lead",
+    "poster",
+    "video",
+    "video_title",
+    "notice",
+    "play_label",
+    "button_text",
+    "links_label",
+    "links"
+  ],
+  "defaultContent": {
+    "id": "tour",
+    "index": "07",
+    "eyebrow": "Take a virtual tour of Dolphin Kids",
+    "title": "Discover the Dolphin Kids experience.",
+    "lead": "Walk through our classrooms, labs and play spaces in the school's own tour film. Sound plays only when you choose.",
+    "poster": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-tour-poster.webp",
+    "video": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/school-tour.mp4",
+    "video_title": "Dolphin Kids school tour",
+    "notice": "Supplied promotional film. It may contain historical contact numbers and timings; current admissions: +91 98110 29884. Please confirm Day Care hours and availability with the school.",
+    "play_label": "Play school tour",
+    "button_text": "Request a campus visit",
+    "button_href": "#enquire",
+    "links_label": "More from the school:",
+    "links": [
+      {
+        "name": "Homepage film",
+        "href": "#home"
+      },
+      {
+        "name": "Parent videos",
+        "href": "#parents"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "key": "DolphinkidsFooter1",
+  "sectionType": "Footer",
+  "sectionNumber": 1,
+  "scope": "page",
+  "name": "DolphinkidsFooter1",
+  "folder": "footer",
+  "editorFields": [
+    "logo",
+    "logo_alt",
+    "tagline",
+    "address",
+    "contact_title",
+    "phone_label",
+    "phone",
+    "whatsapp_label",
+    "whatsapp",
+    "explore_title",
+    "links",
+    "note",
+    "disclaimer",
+    "brochures",
+    "privacy_label",
+    "logoImage",
+    "image"
+  ],
+  "defaultContent": {
+    "logo": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/dolphin-kids-logo.png",
+    "logo_alt": "Dolphin Kids",
+    "tagline": "Bringing global education to India.",
+    "address": "Plot No. NS-16, Gamma-1, Greater Noida, Uttar Pradesh, India",
+    "contact_title": "Contact",
+    "phone_label": "Admissions",
+    "phone": "98110 29884",
+    "phone_href": "tel:+919811029884",
+    "whatsapp_label": "WhatsApp",
+    "whatsapp": "93105 89888",
+    "whatsapp_href": "https://wa.me/919310589888",
+    "explore_title": "Explore",
+    "links": [
+      {
+        "name": "Home",
+        "href": "#home"
+      },
+      {
+        "name": "Admissions",
+        "href": "#admissions"
+      },
+      {
+        "name": "Day Care",
+        "href": "#page-day-care"
+      },
+      {
+        "name": "Why Dolphin Kids",
+        "href": "#why"
+      },
+      {
+        "name": "Learning",
+        "href": "#learning"
+      },
+      {
+        "name": "Campus",
+        "href": "#campus"
+      },
+      {
+        "name": "Franchise",
+        "href": "#franchise"
+      },
+      {
+        "name": "Journal",
+        "href": "#page-journal"
+      },
+      {
+        "name": "About Us",
+        "href": "#about"
+      },
+      {
+        "name": "Admission Process",
+        "href": "#process"
+      },
+      {
+        "name": "Fees, hours & transport",
+        "href": "#process"
+      },
+      {
+        "name": "Senior School Tie-ups",
+        "href": "#senior"
+      }
+    ],
+    "note": "Submit a website enquiry or send us a message on WhatsApp to connect with the Dolphin Kids team. An enquiry does not confirm admission, a booking or a franchise partnership. Please confirm fees, Day Care hours, services and transport arrangements with our team.",
+    "disclaimer": "Admission and franchise approval, continuation and cancellation are at the discretion of Dolphin Kids management. Dolphin Kids reserves the right to decline an application or cancel an admission or franchise arrangement at any time, subject to applicable law, agreed terms and any required notice or refund obligations. Management decisions are final within these limits; this notice does not restrict statutory rights or legal remedies.",
+    "brochures": [
+      {
+        "name": "Admission & Day Care brochure",
+        "href": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/downloads/dolphin-kids-school-day-care-brochure.pdf"
+      },
+      {
+        "name": "Franchise brochure",
+        "href": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/downloads/dolphin-franchise-brochure.pdf"
+      }
+    ],
+    "privacy_label": "Privacy choices",
+    "logoImage": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/dolphin-kids-logo.png",
+    "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/dolphin-kids-logo.png"
+  }
+}

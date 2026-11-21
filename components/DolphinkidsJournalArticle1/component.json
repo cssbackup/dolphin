@@ -1,0 +1,474 @@
+{
+  "key": "DolphinkidsJournalArticle1",
+  "sectionType": "JournalArticle",
+  "sectionNumber": 1,
+  "scope": "page",
+  "name": "DolphinkidsJournalArticle1",
+  "folder": "journalarticle",
+  "editorFields": [
+    "heading",
+    "heading_em",
+    "heading_rest",
+    "related_label",
+    "share_label",
+    "share_button",
+    "share_aria",
+    "share_on",
+    "read_suffix",
+    "author_initials",
+    "journal_label",
+    "shares",
+    "copy_label",
+    "copied_label",
+    "written_by",
+    "author_name",
+    "author_bio",
+    "disclaimer",
+    "sidebar_title",
+    "programmes_label",
+    "daycare_label",
+    "visit_title",
+    "visit_text",
+    "visit_button",
+    "nav",
+    "articles"
+  ],
+  "defaultContent": {
+    "title": "Why the First Five Years Are Crucial for Brain Development",
+    "description": "Evidence-informed guidance for parents of young children, from Dolphin Kids, Greater Noida.",
+    "kicker": "Dolphin Kids presents",
+    "heading": "The",
+    "heading_em": "Parenting",
+    "heading_rest": "Journal",
+    "tagline": "Growing together. Learning together. Parenting better.",
+    "lead": "Expert insights, practical guidance and thoughtful resources to help parents nurture confident, curious and capable children.",
+    "age_eyebrow": "Age-wise parenting guides",
+    "age_heading": "Start with your child's age.",
+    "category_eyebrow": "Parenting categories",
+    "category_heading": "Browse by subject.",
+    "resources": {
+      "title": "Free parenting resources and workshops",
+      "description": "Free downloadable parenting guides from the Dolphin Kids Parenting Journal.",
+      "crumb": "Resources",
+      "eyebrow": "Free resources",
+      "heading": "Guides to keep, print and come back to.",
+      "download": "Download",
+      "workshop_eyebrow": "Parenting workshops",
+      "workshop_heading": "Register your interest.",
+      "workshop_text": "Workshop dates have not been announced yet. Tell us the age of your child and the topics you care about, and our team will contact you when a session is scheduled.",
+      "workshop_href": "/#enquire",
+      "workshop_button": "Talk to admissions",
+      "items": [
+        {
+          "title": "Seven Days of Conversation and Play",
+          "description": "Simple prompts for shared attention, stories and playful language.",
+          "href": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/downloads/parenting-conversation-guide.pdf"
+        },
+        {
+          "title": "A Gentle School-Readiness Checklist",
+          "description": "Prepare for a campus visit, documents, routines and a supported transition.",
+          "href": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/downloads/parenting-school-readiness.pdf"
+        },
+        {
+          "title": "The Working Parent's Routine Planner",
+          "description": "A printable handover and routine worksheet for school, Day Care and home.",
+          "href": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/downloads/parenting-routine-planner.pdf"
+        }
+      ]
+    },
+    "subscribe": {
+      "eyebrow": "The Journal, by email",
+      "heading": "Thoughtful reading for your child's age, now and then.",
+      "text": "Only what you ask for. No unsolicited marketing, and a one-click unsubscribe in every email.",
+      "ask_label": "Ask about admissions",
+      "ask_href": "https://wa.me/919310589888",
+      "name_label": "Parent's name",
+      "email_label": "Email",
+      "age_label": "Child's age group",
+      "select_placeholder": "Select",
+      "interest_label": "Areas of interest",
+      "optional_label": "(optional)",
+      "consent": "Yes, email me the Parenting Journal. I can unsubscribe from any email with one click. We never share your details.",
+      "submit": "Subscribe",
+      "success": "You are on the list. We will only send what you asked for.",
+      "name_error": "Please enter your name.",
+      "email_error": "Please enter a valid email address.",
+      "age_error": "Please choose your child's age group.",
+      "consent_error": "Please tick the consent box to subscribe."
+    },
+    "categories": [
+      {
+        "label": "Early Childhood Development",
+        "count": 2
+      },
+      {
+        "label": "Parenting and Positive Discipline",
+        "count": 1
+      },
+      {
+        "label": "Child Psychology and Behaviour",
+        "count": 1
+      },
+      {
+        "label": "Speech, Language and Communication",
+        "count": 1
+      },
+      {
+        "label": "Phonics, Reading and Storytelling",
+        "count": 2
+      },
+      {
+        "label": "Nutrition and Healthy Eating",
+        "count": 1
+      },
+      {
+        "label": "Emotional Intelligence and PSED",
+        "count": 1
+      },
+      {
+        "label": "Screen Time and Digital Wellness",
+        "count": 1
+      },
+      {
+        "label": "Montessori and Experiential Learning",
+        "count": 1
+      },
+      {
+        "label": "STEM, STEAM and Creative Thinking",
+        "count": 1
+      },
+      {
+        "label": "School Readiness",
+        "count": 1
+      },
+      {
+        "label": "Physical Development and Outdoor Play",
+        "count": 1
+      },
+      {
+        "label": "Social Skills and Personality Development",
+        "count": 1
+      },
+      {
+        "label": "Sleep and Child Wellness",
+        "count": 0
+      },
+      {
+        "label": "Parenting for Working Parents",
+        "count": 0
+      }
+    ],
+    "articles_label": "articles",
+    "age_groups": [
+      {
+        "label": "18 Months – 2 Years",
+        "count": 10
+      },
+      {
+        "label": "2 – 3 Years",
+        "count": 14
+      },
+      {
+        "label": "3 – 4 Years",
+        "count": 15
+      },
+      {
+        "label": "4 – 5 Years",
+        "count": 14
+      },
+      {
+        "label": "5 – 6 Years",
+        "count": 14
+      },
+      {
+        "label": "6 – 8 Years",
+        "count": 10
+      }
+    ],
+    "search_placeholder": "Search articles",
+    "all_label": "All",
+    "latest_label": "Latest",
+    "clear_label": "Clear",
+    "empty_title": "No articles match yet.",
+    "empty_text": "Try a broader word, or clear the filters.",
+    "back_label": "Back to the Journal",
+    "related_label": "Keep reading",
+    "share_label": "Share",
+    "share_button": "Share",
+    "share_aria": "Share this article",
+    "share_on": "Share on",
+    "read_suffix": "min read",
+    "author_initials": "DK",
+    "home_label": "Home",
+    "journal_label": "Journal",
+    "prev_categories": "Previous categories",
+    "next_categories": "Next categories",
+    "shares": [
+      {
+        "label": "WhatsApp",
+        "href": "https://wa.me/?text={text}%20{url}"
+      },
+      {
+        "label": "Facebook",
+        "href": "https://www.facebook.com/sharer/sharer.php?u={url}"
+      },
+      {
+        "label": "X",
+        "href": "https://x.com/intent/post?url={url}&text={text}"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/sharing/share-offsite/?url={url}"
+      }
+    ],
+    "copy_label": "Copy link",
+    "copied_label": "Copied",
+    "written_by": "Written by",
+    "author_name": "Dolphin Kids",
+    "author_bio": "Teachers and the school team at Dolphin Kids, Greater Noida.",
+    "disclaimer": "This article is general information for parents, not medical, psychological or therapeutic advice. If you have a concern about your child's health or development, please speak to a qualified professional.",
+    "sidebar_title": "Curious how we put this into practice?",
+    "programmes_label": "Explore our programmes",
+    "programmes_href": "/#programmes",
+    "daycare_label": "Premium Day Care",
+    "daycare_href": "#page-day-care",
+    "visit_title": "Visit Dolphin Kids, Greater Noida.",
+    "visit_text": "See the classrooms, the Day Care and the people behind them.",
+    "visit_button": "Book a campus visit",
+    "visit_href": "https://wa.me/919310589888",
+    "nav": [
+      {
+        "label": "Latest",
+        "href": "#page-journal"
+      },
+      {
+        "label": "Categories",
+        "href": "#page-journal"
+      },
+      {
+        "label": "Age guides",
+        "href": "#page-journal"
+      },
+      {
+        "label": "Resources and workshops",
+        "href": "#page-journal-resources"
+      },
+      {
+        "label": "Subscribe",
+        "href": "#page-journal"
+      }
+    ],
+    "articles": [
+      {
+        "slug": "why-the-first-five-years-are-crucial-for-brain-development",
+        "title": "Why the First Five Years Are Crucial for Brain Development",
+        "category": "Early Childhood Development",
+        "excerpt": "Why everyday conversation, responsive care, rest and play matter more than pressure to achieve early.",
+        "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-1.webp",
+        "image_alt": "Learning and play at the Dolphin Kids campus",
+        "featured": true,
+        "paragraphs": [
+          "Why everyday conversation, responsive care, rest and play matter more than pressure to achieve early.",
+          "At Dolphin Kids, these ideas show up in ordinary classroom moments: conversation, play, rest and routines. Parents can try one small change at home and talk with teachers about what the child is already practising at school.",
+          "This note is guidance, not a diagnosis. If you are worried about hearing, speech, movement or behaviour, speak with a qualified professional. The school can share classroom observations and help you plan the next conversation."
+        ]
+      },
+      {
+        "slug": "how-to-develop-confidence-and-independence-in-young-children",
+        "title": "How to Develop Confidence and Independence in Young Children",
+        "category": "Social Skills and Personality Development",
+        "excerpt": "Small responsibilities, realistic choices and supportive feedback help children practise capable independence.",
+        "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-2.webp",
+        "image_alt": "Learning and play at the Dolphin Kids campus",
+        "featured": false,
+        "paragraphs": [
+          "Small responsibilities, realistic choices and supportive feedback help children practise capable independence.",
+          "At Dolphin Kids, these ideas show up in ordinary classroom moments: conversation, play, rest and routines. Parents can try one small change at home and talk with teachers about what the child is already practising at school.",
+          "This note is guidance, not a diagnosis. If you are worried about hearing, speech, movement or behaviour, speak with a qualified professional. The school can share classroom observations and help you plan the next conversation."
+        ]
+      },
+      {
+        "slug": "the-importance-of-phonics-in-early-reading",
+        "title": "The Importance of Phonics in Early Reading",
+        "category": "Phonics, Reading and Storytelling",
+        "excerpt": "Understand letter-sound links, blending and why phonics belongs alongside vocabulary, stories and comprehension.",
+        "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-3.webp",
+        "image_alt": "Learning and play at the Dolphin Kids campus",
+        "featured": false,
+        "paragraphs": [
+          "Understand letter-sound links, blending and why phonics belongs alongside vocabulary, stories and comprehension.",
+          "At Dolphin Kids, these ideas show up in ordinary classroom moments: conversation, play, rest and routines. Parents can try one small change at home and talk with teachers about what the child is already practising at school.",
+          "This note is guidance, not a diagnosis. If you are worried about hearing, speech, movement or behaviour, speak with a qualified professional. The school can share classroom observations and help you plan the next conversation."
+        ]
+      },
+      {
+        "slug": "montessori-education-learning-through-exploration",
+        "title": "Montessori Education: Learning Through Exploration",
+        "category": "Montessori and Experiential Learning",
+        "excerpt": "Practical life, sensorial materials and self-chosen work help children concentrate and finish what they start.",
+        "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-4.webp",
+        "image_alt": "Learning and play at the Dolphin Kids campus",
+        "featured": false,
+        "paragraphs": [
+          "Practical life, sensorial materials and self-chosen work help children concentrate and finish what they start.",
+          "At Dolphin Kids, these ideas show up in ordinary classroom moments: conversation, play, rest and routines. Parents can try one small change at home and talk with teachers about what the child is already practising at school.",
+          "This note is guidance, not a diagnosis. If you are worried about hearing, speech, movement or behaviour, speak with a qualified professional. The school can share classroom observations and help you plan the next conversation."
+        ]
+      },
+      {
+        "slug": "how-parents-can-improve-their-childs-communication-skills",
+        "title": "How Parents Can Improve Their Childs Communication Skills",
+        "category": "Speech, Language and Communication",
+        "excerpt": "Conversation, stories and unhurried turns grow vocabulary and the confidence to be understood.",
+        "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-5.webp",
+        "image_alt": "Learning and play at the Dolphin Kids campus",
+        "featured": false,
+        "paragraphs": [
+          "Conversation, stories and unhurried turns grow vocabulary and the confidence to be understood.",
+          "At Dolphin Kids, these ideas show up in ordinary classroom moments: conversation, play, rest and routines. Parents can try one small change at home and talk with teachers about what the child is already practising at school.",
+          "This note is guidance, not a diagnosis. If you are worried about hearing, speech, movement or behaviour, speak with a qualified professional. The school can share classroom observations and help you plan the next conversation."
+        ]
+      },
+      {
+        "slug": "understanding-psed-in-early-childhood",
+        "title": "Understanding PSED in Early Childhood",
+        "category": "Emotional Intelligence and PSED",
+        "excerpt": "Feelings, friendships and self-regulation grow through daily routines and gentle guidance.",
+        "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-6.webp",
+        "image_alt": "Learning and play at the Dolphin Kids campus",
+        "featured": false,
+        "paragraphs": [
+          "Feelings, friendships and self-regulation grow through daily routines and gentle guidance.",
+          "At Dolphin Kids, these ideas show up in ordinary classroom moments: conversation, play, rest and routines. Parents can try one small change at home and talk with teachers about what the child is already practising at school.",
+          "This note is guidance, not a diagnosis. If you are worried about hearing, speech, movement or behaviour, speak with a qualified professional. The school can share classroom observations and help you plan the next conversation."
+        ]
+      },
+      {
+        "slug": "managing-screen-time-in-young-children",
+        "title": "Managing Screen Time in Young Children",
+        "category": "Screen Time and Digital Wellness",
+        "excerpt": "Shared viewing, clear limits and plenty of play keep screens in a supporting role.",
+        "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-1.webp",
+        "image_alt": "Learning and play at the Dolphin Kids campus",
+        "featured": false,
+        "paragraphs": [
+          "Shared viewing, clear limits and plenty of play keep screens in a supporting role.",
+          "At Dolphin Kids, these ideas show up in ordinary classroom moments: conversation, play, rest and routines. Parents can try one small change at home and talk with teachers about what the child is already practising at school.",
+          "This note is guidance, not a diagnosis. If you are worried about hearing, speech, movement or behaviour, speak with a qualified professional. The school can share classroom observations and help you plan the next conversation."
+        ]
+      },
+      {
+        "slug": "healthy-eating-habits-for-preschoolers",
+        "title": "Healthy Eating Habits for Preschoolers",
+        "category": "Nutrition and Healthy Eating",
+        "excerpt": "Regular meals, new foods offered calmly, and family eating build lasting habits.",
+        "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-2.webp",
+        "image_alt": "Learning and play at the Dolphin Kids campus",
+        "featured": false,
+        "paragraphs": [
+          "Regular meals, new foods offered calmly, and family eating build lasting habits.",
+          "At Dolphin Kids, these ideas show up in ordinary classroom moments: conversation, play, rest and routines. Parents can try one small change at home and talk with teachers about what the child is already practising at school.",
+          "This note is guidance, not a diagnosis. If you are worried about hearing, speech, movement or behaviour, speak with a qualified professional. The school can share classroom observations and help you plan the next conversation."
+        ]
+      },
+      {
+        "slug": "preparing-your-child-for-nursery-school",
+        "title": "Preparing Your Child for Nursery School",
+        "category": "School Readiness",
+        "excerpt": "Routines, separation practice and simple self-help skills make the first weeks easier.",
+        "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-3.webp",
+        "image_alt": "Learning and play at the Dolphin Kids campus",
+        "featured": false,
+        "paragraphs": [
+          "Routines, separation practice and simple self-help skills make the first weeks easier.",
+          "At Dolphin Kids, these ideas show up in ordinary classroom moments: conversation, play, rest and routines. Parents can try one small change at home and talk with teachers about what the child is already practising at school.",
+          "This note is guidance, not a diagnosis. If you are worried about hearing, speech, movement or behaviour, speak with a qualified professional. The school can share classroom observations and help you plan the next conversation."
+        ]
+      },
+      {
+        "slug": "why-play-based-learning-is-essential",
+        "title": "Why Play-Based Learning Is Essential",
+        "category": "Early Childhood Development",
+        "excerpt": "Play is how young children test ideas, language, movement and friendships.",
+        "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-4.webp",
+        "image_alt": "Learning and play at the Dolphin Kids campus",
+        "featured": false,
+        "paragraphs": [
+          "Play is how young children test ideas, language, movement and friendships.",
+          "At Dolphin Kids, these ideas show up in ordinary classroom moments: conversation, play, rest and routines. Parents can try one small change at home and talk with teachers about what the child is already practising at school.",
+          "This note is guidance, not a diagnosis. If you are worried about hearing, speech, movement or behaviour, speak with a qualified professional. The school can share classroom observations and help you plan the next conversation."
+        ]
+      },
+      {
+        "slug": "how-storytelling-develops-language-and-imagination",
+        "title": "How Storytelling Develops Language and Imagination",
+        "category": "Phonics, Reading and Storytelling",
+        "excerpt": "Stories, even one picture at a time, grow words, memory and the habit of listening.",
+        "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-5.webp",
+        "image_alt": "Learning and play at the Dolphin Kids campus",
+        "featured": false,
+        "paragraphs": [
+          "Stories, even one picture at a time, grow words, memory and the habit of listening.",
+          "At Dolphin Kids, these ideas show up in ordinary classroom moments: conversation, play, rest and routines. Parents can try one small change at home and talk with teachers about what the child is already practising at school.",
+          "This note is guidance, not a diagnosis. If you are worried about hearing, speech, movement or behaviour, speak with a qualified professional. The school can share classroom observations and help you plan the next conversation."
+        ]
+      },
+      {
+        "slug": "building-positive-habits-through-everyday-routines",
+        "title": "Building Positive Habits Through Everyday Routines",
+        "category": "Parenting and Positive Discipline",
+        "excerpt": "Predictable mornings, meals and bedtimes help children feel safe and capable.",
+        "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-6.webp",
+        "image_alt": "Learning and play at the Dolphin Kids campus",
+        "featured": false,
+        "paragraphs": [
+          "Predictable mornings, meals and bedtimes help children feel safe and capable.",
+          "At Dolphin Kids, these ideas show up in ordinary classroom moments: conversation, play, rest and routines. Parents can try one small change at home and talk with teachers about what the child is already practising at school.",
+          "This note is guidance, not a diagnosis. If you are worried about hearing, speech, movement or behaviour, speak with a qualified professional. The school can share classroom observations and help you plan the next conversation."
+        ]
+      },
+      {
+        "slug": "the-importance-of-outdoor-play",
+        "title": "The Importance of Outdoor Play",
+        "category": "Physical Development and Outdoor Play",
+        "excerpt": "Fresh air, space to run and a slower pace support health, curiosity and confidence.",
+        "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-1.webp",
+        "image_alt": "Learning and play at the Dolphin Kids campus",
+        "featured": false,
+        "paragraphs": [
+          "Fresh air, space to run and a slower pace support health, curiosity and confidence.",
+          "At Dolphin Kids, these ideas show up in ordinary classroom moments: conversation, play, rest and routines. Parents can try one small change at home and talk with teachers about what the child is already practising at school.",
+          "This note is guidance, not a diagnosis. If you are worried about hearing, speech, movement or behaviour, speak with a qualified professional. The school can share classroom observations and help you plan the next conversation."
+        ]
+      },
+      {
+        "slug": "developing-emotional-intelligence-in-children",
+        "title": "Developing Emotional Intelligence in Children",
+        "category": "Child Psychology and Behaviour",
+        "excerpt": "Naming feelings and staying calm beside a child teaches regulation better than lectures.",
+        "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-2.webp",
+        "image_alt": "Learning and play at the Dolphin Kids campus",
+        "featured": false,
+        "paragraphs": [
+          "Naming feelings and staying calm beside a child teaches regulation better than lectures.",
+          "At Dolphin Kids, these ideas show up in ordinary classroom moments: conversation, play, rest and routines. Parents can try one small change at home and talk with teachers about what the child is already practising at school.",
+          "This note is guidance, not a diagnosis. If you are worried about hearing, speech, movement or behaviour, speak with a qualified professional. The school can share classroom observations and help you plan the next conversation."
+        ]
+      },
+      {
+        "slug": "how-to-make-learning-fun-at-home",
+        "title": "How to Make Learning Fun at Home",
+        "category": "STEM, STEAM and Creative Thinking",
+        "excerpt": "Short, playful moments at home can match what children explore at school.",
+        "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/campus-gallery-3.webp",
+        "image_alt": "Learning and play at the Dolphin Kids campus",
+        "featured": false,
+        "paragraphs": [
+          "Short, playful moments at home can match what children explore at school.",
+          "At Dolphin Kids, these ideas show up in ordinary classroom moments: conversation, play, rest and routines. Parents can try one small change at home and talk with teachers about what the child is already practising at school.",
+          "This note is guidance, not a diagnosis. If you are worried about hearing, speech, movement or behaviour, speak with a qualified professional. The school can share classroom observations and help you plan the next conversation."
+        ]
+      }
+    ]
+  }
+}

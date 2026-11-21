@@ -1,0 +1,46 @@
+{
+  "key": "DolphinkidsParentInfo1",
+  "sectionType": "ParentInfo",
+  "sectionNumber": 1,
+  "scope": "page",
+  "name": "DolphinkidsParentInfo1",
+  "folder": "parentinfo",
+  "editorFields": [
+    "eyebrow",
+    "title",
+    "lead",
+    "phone",
+    "call_label",
+    "action_label",
+    "items"
+  ],
+  "defaultContent": {
+    "id": "parent-information",
+    "index": "02c",
+    "eyebrow": "For parents",
+    "title": "Fees, Day Care timings and transport",
+    "lead": "Information below is published only after the school approves it. Where it is not yet published, ask the admissions team for current details.",
+    "phone": "98110 29884",
+    "phone_href": "tel:+919811029884",
+    "call_label": "Call admissions",
+    "action_label": "Ask on WhatsApp",
+    "action_href": "https://wa.me/919811029884",
+    "items": [
+      {
+        "icon": "fees",
+        "title": "Fees",
+        "text": "Current fees for the session you are applying to are shared directly by the admissions office. Please ask for the current fee schedule for your child's class."
+      },
+      {
+        "icon": "timings",
+        "title": "Day Care timings",
+        "text": "Day Care schedules are confirmed by the school. Please ask for the current timings and available plans."
+      },
+      {
+        "icon": "transport",
+        "title": "Transport",
+        "text": "Transport availability depends on your route and location. Please share your area to ask whether a route is currently available."
+      }
+    ]
+  }
+}

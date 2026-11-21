@@ -1,0 +1,151 @@
+{
+  "key": "DolphinkidsEnquire1",
+  "sectionType": "Enquire",
+  "sectionNumber": 1,
+  "scope": "page",
+  "name": "DolphinkidsEnquire1",
+  "folder": "enquire",
+  "editorFields": [
+    "eyebrow",
+    "title",
+    "lead",
+    "actions",
+    "form_kicker",
+    "form_title",
+    "form_text",
+    "form_note",
+    "groups",
+    "consent",
+    "submit_text",
+    "next_note",
+    "privacy_note",
+    "phone_line",
+    "phone",
+    "image",
+    "image_alt",
+    "success_title",
+    "success_message"
+  ],
+  "defaultContent": {
+    "id": "enquire",
+    "index": "11",
+    "eyebrow": "Admissions open",
+    "title": "Give your child the best start.",
+    "lead": "Complete the admission enquiry below, or call our admissions team. You can also ask about a campus visit on WhatsApp; visit arrangements are confirmed by the school.",
+    "actions": [
+      {
+        "name": "ADMISSION ENQUIRY",
+        "href": "#enquire",
+        "style": "solid"
+      },
+      {
+        "name": "Download Admission Brochure",
+        "href": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/downloads/dolphin-kids-school-day-care-brochure.pdf",
+        "style": "tint"
+      },
+      {
+        "name": "ASK ABOUT A CAMPUS VISIT",
+        "href": "https://wa.me/919310589888",
+        "style": "outline"
+      },
+      {
+        "name": "WHATSAPP OUR TEAM",
+        "href": "https://wa.me/919310589888",
+        "style": "outline"
+      }
+    ],
+    "form_kicker": "Admission enquiry",
+    "form_title": "A little about your family",
+    "form_text": "Tell us what you are looking for at Dolphin Kids, Greater Noida. It is fine if you are still exploring programmes.",
+    "form_note": "Required. Everything marked optional can be left blank.",
+    "groups": [
+      {
+        "title": "Your contact details",
+        "fields": [
+          {
+            "name": "parent",
+            "label": "Parent's name",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "phone",
+            "label": "Contact number",
+            "type": "tel",
+            "required": true,
+            "placeholder": "10-digit mobile"
+          },
+          {
+            "name": "email",
+            "label": "Email",
+            "type": "email",
+            "placeholder": "Optional"
+          }
+        ]
+      },
+      {
+        "title": "Your child & your questions",
+        "fields": [
+          {
+            "name": "child",
+            "label": "Child's name",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "age",
+            "label": "Child's age or date of birth",
+            "type": "text",
+            "required": true,
+            "placeholder": "e.g. 3 years 9 months"
+          },
+          {
+            "name": "programme",
+            "label": "Programme of interest",
+            "type": "select",
+            "required": true,
+            "wide": true,
+            "placeholder": "Choose a programme",
+            "options": [
+              "Preschool / Pre-Nursery",
+              "Nursery PP1",
+              "LKG PP2",
+              "UKG PP3",
+              "Grade 1",
+              "Grade 2",
+              "Not sure yet"
+            ]
+          },
+          {
+            "name": "school",
+            "label": "Current school (if applicable)",
+            "type": "text"
+          },
+          {
+            "name": "area",
+            "label": "Area / locality",
+            "type": "text",
+            "hint": "Your locality is enough; no full address needed."
+          },
+          {
+            "name": "message",
+            "label": "Questions or preferred visit time",
+            "type": "textarea",
+            "wide": true
+          }
+        ]
+      }
+    ],
+    "consent": "I agree that Dolphin Kids may store these details and contact me by phone, WhatsApp or email about this enquiry. No marketing list sign-up.",
+    "submit_text": "Send admission enquiry",
+    "next_note": "An enquiry is the first conversation, not a confirmed admission or campus visit.",
+    "privacy_note": "Your details are for this enquiry, not a marketing list.",
+    "phone_line": "Admissions calling",
+    "phone": "98110 29884",
+    "phone_href": "tel:+919811029884",
+    "image": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/parent-story-gaurika.webp",
+    "image_alt": "A Dolphin Kids family",
+    "success_title": "Thank you. Your enquiry is saved.",
+    "success_message": "Our admissions team will be in touch. This form does not confirm a seat."
+  }
+}

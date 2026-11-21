@@ -1,0 +1,146 @@
+{
+  "key": "dolphinkids-20261118163700",
+  "title": "Dolphin Kids",
+  "type": "Multiple Pages Website",
+  "categorySlug": "school",
+  "category": "School",
+  "previewImage": "http://localhost:4000/uploads/themes/dolphinkids-20261118163700/assets/images/school-learning.webp",
+  "previewDescription": "Indian and international curriculum from Preschool to Grade 2, with premium Day Care in Greater Noida.",
+  "homeSectionOrder": [
+    "Header",
+    "Banner",
+    "About",
+    "Programmes",
+    "Process",
+    "ParentInfo",
+    "Why",
+    "Learning",
+    "Campus",
+    "DayCare",
+    "Tour",
+    "Activities",
+    "Senior",
+    "Parents",
+    "Journal",
+    "Franchise",
+    "Enquire",
+    "Footer"
+  ],
+  "sectionVariants": {
+    "Header": "DolphinkidsHeader1",
+    "Footer": "DolphinkidsFooter1",
+    "Banner": "DolphinkidsBanner1",
+    "Breadcrumb": "DolphinkidsBreadcrumb1",
+    "About": "DolphinkidsAbout1",
+    "Programmes": "DolphinkidsProgrammes1",
+    "Process": "DolphinkidsProcess1",
+    "ParentInfo": "DolphinkidsParentInfo1",
+    "Why": "DolphinkidsWhy1",
+    "Learning": "DolphinkidsLearning1",
+    "Campus": "DolphinkidsCampus1",
+    "DayCare": "DolphinkidsDayCare1",
+    "Tour": "DolphinkidsTour1",
+    "Activities": "DolphinkidsActivities1",
+    "Senior": "DolphinkidsSenior1",
+    "Parents": "DolphinkidsParents1",
+    "Journal": "DolphinkidsJournal1",
+    "Franchise": "DolphinkidsFranchise1",
+    "Enquire": "DolphinkidsEnquire1",
+    "DayCarePage": "DolphinkidsDayCarePage1",
+    "JournalList": "DolphinkidsJournalList1",
+    "JournalArticle": "DolphinkidsJournalArticle1",
+    "JournalResources": "DolphinkidsJournalResources1"
+  },
+  "variables": {
+    "--font-body": "\"Plus Jakarta Sans\", sans-serif",
+    "--font-heading": "\"Fraunces\", Georgia, serif",
+    "--font-button": "\"Plus Jakarta Sans\", sans-serif",
+    "--primary-bg": "#912e5a",
+    "--hero-bg": "#1a2a52",
+    "--header-bg": "#ffffff",
+    "--header-text": "#1a2a52",
+    "--secondary-bg": "#fbf7f3",
+    "--primary-text": "#fbf7f3",
+    "--secondary-text": "#1a2a52",
+    "--hero-title": "#1a2a52",
+    "--primary-link-bg": "#912e5a",
+    "--primary-link-color": "#ffffff",
+    "--secondary-link-bg": "#741f48",
+    "--font-primary": "Fraunces, Georgia, serif",
+    "--font-navigation": "Plus Jakarta Sans, sans-serif",
+    "--color-primary": "#912e5a",
+    "--color-accent": "#912e5a",
+    "--color-heading": "#1a2a52",
+    "--color-text": "#3d4a66",
+    "--color-bg-main": "#fbf7f3",
+    "--color-bg-alt": "#eef2f8",
+    "--color-white": "#ffffff"
+  },
+  "pages": [
+    {
+      "id": "home",
+      "label": "Home",
+      "sectionType": "Home",
+      "sections": [
+        "Header",
+        "Banner",
+        "About",
+        "Programmes",
+        "Process",
+        "ParentInfo",
+        "Why",
+        "Learning",
+        "Campus",
+        "DayCare",
+        "Tour",
+        "Activities",
+        "Senior",
+        "Parents",
+        "Journal",
+        "Franchise",
+        "Enquire",
+        "Footer"
+      ]
+    },
+    {
+      "id": "day-care",
+      "label": "Day Care",
+      "sectionType": "DayCarePage",
+      "sections": [
+        "Header",
+        "DayCarePage",
+        "Footer"
+      ]
+    },
+    {
+      "id": "journal",
+      "label": "Parenting Journal",
+      "sectionType": "JournalList",
+      "sections": [
+        "Header",
+        "JournalList",
+        "Footer"
+      ]
+    },
+    {
+      "id": "journal-article",
+      "label": "Journal Article",
+      "sectionType": "JournalArticle",
+      "sections": [
+        "Header",
+        "JournalArticle",
+        "Footer"
+      ]
+    },
+    {
+      "id": "journal-resources",
+      "label": "Journal Resources",
+      "sectionType": "JournalResources",
+      "sections": [
+        "Header",
+        "JournalResources",
+        "Footer"
+      ]
+    }
+  ]
+}

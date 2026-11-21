@@ -1,0 +1,48 @@
+{
+  "key": "DolphinkidsDayCare1",
+  "sectionType": "DayCare",
+  "sectionNumber": 1,
+  "scope": "page",
+  "name": "DolphinkidsDayCare1",
+  "folder": "daycare",
+  "editorFields": [
+    "eyebrow",
+    "title",
+    "main_badge",
+    "main_title",
+    "main_text",
+    "points",
+    "extended_badge",
+    "extended_title",
+    "extended_text",
+    "primary_label",
+    "whatsapp_label",
+    "extended_label"
+  ],
+  "defaultContent": {
+    "id": "daycare",
+    "index": "06",
+    "eyebrow": "Premium Day Care",
+    "title": "More than a Day Care. A second home.",
+    "main_badge": "From 20 months",
+    "main_title": "Dolphin Kids Day Care",
+    "main_text": "A safe, joyful day for young children, with learning woven through play and rest. Open to families whose children attend other schools.",
+    "points": [
+      "Caring caregivers",
+      "Indoor and outdoor activities",
+      "Rest facilities and healthy meals",
+      "Language development",
+      "CCTV, air-conditioning and power backup",
+      "Care arrangements to suit your family"
+    ],
+    "extended_badge": "Dolphin Group pupils only",
+    "extended_title": "Extended Day Care",
+    "extended_text": "Longer supervised hours for children already enrolled in a Dolphin Group school, so the school day continues calmly into the afternoon.",
+    "primary_label": "Explore Day Care",
+    "primary_href": "#page-day-care",
+    "whatsapp_label": "Enquire on WhatsApp",
+    "whatsapp_href": "https://wa.me/919811029884",
+    "extended_label": "How it works",
+    "extended_href": "#page-day-care"
+  }
+}
